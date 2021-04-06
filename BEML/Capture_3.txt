@@ -1,0 +1,42 @@
+                                                                   Date: 20/06/2020 : 02:24PM
+
+Bill No.: MMH2OICR0000341          INPATIENT DETAILED BILL OF SUPPLY        Payor: SEMI Witaitald SooDHa
+
+                                                                     Auth. Code: 27302
+Name        : MR HANUMANTH REDDY 0                            Hospital No              M4H000274693
+Agc/Sex : 81 years/Male                                       Inpatient No           : 70000041646
+
+51. Particulars                                                                           Amount(RS.1
+Ref. No. Order Item                Qty        Price                                               Net
+
+      [CIPINT02] INTERNAL MEDICINE Clinical Management Fee (DR R MANJUMATH)
+                                   2      500.00*                                         1000.00
+                                    Sub Total                                              8210.00
+10 Medical Equipment SAC:999321
+      [AMED043] 02 CHARGES             1      140.00                                          140.00
+      [AMED064] MONITOR CHARGES
+                                       1      190.00                                          190.00
+
+                                       Sub Total                                              330.00
+11 Biochemistry SAC:999316
+      [CO228] Liver Function Test
+                                        1      1000.00                                         1000.00
+      [C0432] Renal Panel - I - Random
+                                       1      650.00                                          650.00
+
+                                       Sub Total                                              2650.00
+12 Haematology SAC:999316
+     [H0006] APTT ( Automated / Clotting Avy 1
+                                       1      500.00                                          500.00
+      [H0014] Complete Blood Counts (Automated)
+                                       1      450.00                                          450.00
+      [M110059] Prothrombin Time ( Automated/ Clotting Assay )
+                                       1      450.00                                          450.00
+
+                                       Sub Total                                              1400.00
+13 Microbiology SAC:999326
+      [M0086] Hepatitis C Virus (Rapid)
+                                       1      1870.00                                         2870.00
+      [MO219]   HSsAg (ECLIA)          1      650.00                                           650.00
+      [M2018]   HIV (ECLIA)            1      1810.00                                         1810.00
+

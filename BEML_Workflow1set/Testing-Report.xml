@@ -1,0 +1,234 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Test-Suite name="UiPath Project - Test Automation" total="33" passed="33" failures="0" execution-date="03/13/2021 16:31:35" total-time="00:10:42">
+  <Result>
+    <TestScenario>Executing Python script of Detailed bill</TestScenario>
+    <TestName>DynamicActivity</TestName>
+    <Started>03/13/2021 16:31:20</Started>
+    <Ended>03/13/2021 16:31:35</Ended>
+    <Status>PASSED</Status>
+  </Result>
+  <Result>
+    <TestScenario>Executing Python script of Detailed bill</TestScenario>
+    <TestName>DynamicActivity</TestName>
+    <Started>03/13/2021 16:35:40</Started>
+    <Ended>03/13/2021 16:35:42</Ended>
+    <Status>PASSED</Status>
+  </Result>
+  <Result>
+    <TestScenario>Executing Python script of Detailed bill</TestScenario>
+    <TestName>DynamicActivity</TestName>
+    <Started>03/13/2021 16:37:40</Started>
+    <Ended>03/13/2021 16:37:42</Ended>
+    <Status>PASSED</Status>
+  </Result>
+  <Result>
+    <TestScenario>Executing Python script of Detailed bill</TestScenario>
+    <TestName>DynamicActivity</TestName>
+    <Started>03/13/2021 17:09:30</Started>
+    <Ended>03/13/2021 17:09:47</Ended>
+    <Status>PASSED</Status>
+  </Result>
+  <Result>
+    <TestScenario>Executing Python script of Detailed bill</TestScenario>
+    <TestName>DynamicActivity</TestName>
+    <Started>03/13/2021 17:32:47</Started>
+    <Ended>03/13/2021 17:33:22</Ended>
+    <Status>PASSED</Status>
+  </Result>
+  <Result>
+    <TestScenario>Executing Python script of Detailed bill</TestScenario>
+    <TestName>DynamicActivity</TestName>
+    <Started>03/13/2021 17:36:04</Started>
+    <Ended>03/13/2021 17:36:10</Ended>
+    <Status>PASSED</Status>
+  </Result>
+  <Result>
+    <TestScenario>Executing Python script of Detailed bill</TestScenario>
+    <TestName>DynamicActivity</TestName>
+    <Started>03/13/2021 17:49:07</Started>
+    <Ended>03/13/2021 17:49:13</Ended>
+    <Status>PASSED</Status>
+  </Result>
+  <Result>
+    <TestScenario>Executing Python script of Detailed bill</TestScenario>
+    <TestName>DynamicActivity</TestName>
+    <Started>03/13/2021 17:59:14</Started>
+    <Ended>03/13/2021 17:59:28</Ended>
+    <Status>PASSED</Status>
+  </Result>
+  <Result>
+    <TestScenario>Executing Python script of Detailed bill</TestScenario>
+    <TestName>DynamicActivity</TestName>
+    <Started>03/13/2021 18:03:34</Started>
+    <Ended>03/13/2021 18:03:42</Ended>
+    <Status>PASSED</Status>
+  </Result>
+  <Result>
+    <TestScenario>Executing Python script of Detailed bill</TestScenario>
+    <TestName>DynamicActivity</TestName>
+    <Started>03/13/2021 18:08:26</Started>
+    <Ended>03/13/2021 18:08:36</Ended>
+    <Status>PASSED</Status>
+  </Result>
+  <Result>
+    <TestScenario>Executing Python script of Detailed bill</TestScenario>
+    <TestName>DynamicActivity</TestName>
+    <Started>03/15/2021 10:24:40</Started>
+    <Ended>03/15/2021 10:24:49</Ended>
+    <Status>PASSED</Status>
+  </Result>
+  <Result>
+    <TestScenario>Inserting Detailed Bill data into database</TestScenario>
+    <TestName>DynamicActivity</TestName>
+    <Started>03/15/2021 10:24:54</Started>
+    <Ended>03/15/2021 10:25:27</Ended>
+    <Status>PASSED</Status>
+  </Result>
+  <Result>
+    <TestScenario>Executing Python script of Detailed bill</TestScenario>
+    <TestName>DynamicActivity</TestName>
+    <Started>03/15/2021 12:02:29</Started>
+    <Ended>03/15/2021 12:02:54</Ended>
+    <Status>PASSED</Status>
+  </Result>
+  <Result>
+    <TestScenario>Inserting Detailed Bill data into database</TestScenario>
+    <TestName>DynamicActivity</TestName>
+    <Started>03/15/2021 12:03:01</Started>
+    <Ended>03/15/2021 12:03:26</Ended>
+    <Status>PASSED</Status>
+  </Result>
+  <Result>
+    <TestScenario>Executing Python script of Detailed bill</TestScenario>
+    <TestName>DynamicActivity</TestName>
+    <Started>03/15/2021 12:57:19</Started>
+    <Ended>03/15/2021 12:57:35</Ended>
+    <Status>PASSED</Status>
+  </Result>
+  <Result>
+    <TestScenario>Inserting Detailed Bill data into database</TestScenario>
+    <TestName>DynamicActivity</TestName>
+    <Started>03/15/2021 12:57:39</Started>
+    <Ended>03/15/2021 12:58:03</Ended>
+    <Status>PASSED</Status>
+  </Result>
+  <Result>
+    <TestScenario>Executing Python script of Detailed bill</TestScenario>
+    <TestName>DynamicActivity</TestName>
+    <Started>03/15/2021 13:46:22</Started>
+    <Ended>03/15/2021 13:46:38</Ended>
+    <Status>PASSED</Status>
+  </Result>
+  <Result>
+    <TestScenario>Inserting Detailed Bill data into database</TestScenario>
+    <TestName>DynamicActivity</TestName>
+    <Started>03/15/2021 13:46:50</Started>
+    <Ended>03/15/2021 13:47:16</Ended>
+    <Status>PASSED</Status>
+  </Result>
+  <Result>
+    <TestScenario>Executing Python script of Detailed bill</TestScenario>
+    <TestName>DynamicActivity</TestName>
+    <Started>03/15/2021 14:37:45</Started>
+    <Ended>03/15/2021 14:38:08</Ended>
+    <Status>PASSED</Status>
+  </Result>
+  <Result>
+    <TestScenario>Executing Python script of Detailed bill</TestScenario>
+    <TestName>DynamicActivity</TestName>
+    <Started>03/15/2021 14:39:54</Started>
+    <Ended>03/15/2021 14:39:58</Ended>
+    <Status>PASSED</Status>
+  </Result>
+  <Result>
+    <TestScenario>Inserting Detailed Bill data into database</TestScenario>
+    <TestName>DynamicActivity</TestName>
+    <Started>03/15/2021 14:39:59</Started>
+    <Ended>03/15/2021 14:40:22</Ended>
+    <Status>PASSED</Status>
+  </Result>
+  <Result>
+    <TestScenario>Executing Python script of Detailed bill</TestScenario>
+    <TestName>DynamicActivity</TestName>
+    <Started>03/15/2021 14:46:55</Started>
+    <Ended>03/15/2021 14:47:08</Ended>
+    <Status>PASSED</Status>
+  </Result>
+  <Result>
+    <TestScenario>Inserting Detailed Bill data into database</TestScenario>
+    <TestName>DynamicActivity</TestName>
+    <Started>03/15/2021 14:47:10</Started>
+    <Ended>03/15/2021 14:47:34</Ended>
+    <Status>PASSED</Status>
+  </Result>
+  <Result>
+    <TestScenario>Executing Python script of Detailed bill</TestScenario>
+    <TestName>DynamicActivity</TestName>
+    <Started>03/15/2021 14:57:20</Started>
+    <Ended>03/15/2021 14:57:31</Ended>
+    <Status>PASSED</Status>
+  </Result>
+  <Result>
+    <TestScenario>Inserting Detailed Bill data into database</TestScenario>
+    <TestName>DynamicActivity</TestName>
+    <Started>03/15/2021 14:57:33</Started>
+    <Ended>03/15/2021 14:58:08</Ended>
+    <Status>PASSED</Status>
+  </Result>
+  <Result>
+    <TestScenario>Executing Python script of Detailed bill</TestScenario>
+    <TestName>DynamicActivity</TestName>
+    <Started>03/16/2021 11:25:10</Started>
+    <Ended>03/16/2021 11:25:29</Ended>
+    <Status>PASSED</Status>
+  </Result>
+  <Result>
+    <TestScenario>Inserting Detailed Bill data into database</TestScenario>
+    <TestName>DynamicActivity</TestName>
+    <Started>03/16/2021 11:25:32</Started>
+    <Ended>03/16/2021 11:26:06</Ended>
+    <Status>PASSED</Status>
+  </Result>
+  <Result>
+    <TestScenario>Executing Python script of Detailed bill</TestScenario>
+    <TestName>DynamicActivity</TestName>
+    <Started>03/16/2021 12:59:56</Started>
+    <Ended>03/16/2021 13:00:18</Ended>
+    <Status>PASSED</Status>
+  </Result>
+  <Result>
+    <TestScenario>Inserting Detailed Bill data into database</TestScenario>
+    <TestName>DynamicActivity</TestName>
+    <Started>03/16/2021 13:00:23</Started>
+    <Ended>03/16/2021 13:00:49</Ended>
+    <Status>PASSED</Status>
+  </Result>
+  <Result>
+    <TestScenario>Executing Python script of Detailed bill</TestScenario>
+    <TestName>DynamicActivity</TestName>
+    <Started>03/16/2021 15:55:34</Started>
+    <Ended>03/16/2021 15:56:06</Ended>
+    <Status>PASSED</Status>
+  </Result>
+  <Result>
+    <TestScenario>Inserting Detailed Bill data into database</TestScenario>
+    <TestName>DynamicActivity</TestName>
+    <Started>03/16/2021 15:56:11</Started>
+    <Ended>03/16/2021 15:56:38</Ended>
+    <Status>PASSED</Status>
+  </Result>
+  <Result>
+    <TestScenario>Executing Python script of Detailed bill</TestScenario>
+    <TestName>DynamicActivity</TestName>
+    <Started>03/17/2021 18:28:23</Started>
+    <Ended>03/17/2021 18:28:48</Ended>
+    <Status>PASSED</Status>
+  </Result>
+  <Result>
+    <TestScenario>Inserting Detailed Bill data into database</TestScenario>
+    <TestName>DynamicActivity</TestName>
+    <Started>03/17/2021 18:28:50</Started>
+    <Ended>03/17/2021 18:29:25</Ended>
+    <Status>PASSED</Status>
+  </Result>
+</Test-Suite>

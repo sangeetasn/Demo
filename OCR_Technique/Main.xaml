@@ -1,0 +1,776 @@
+<Activity mc:Ignorable="sap sap2010" x:Class="Main" mva:VisualBasic.Settings="{x:Null}" sap:VirtualizedContainerService.HintSize="912,2376.66666666667" sap2010:WorkflowViewState.IdRef="ActivityBuilder_1" xmlns="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:mva="clr-namespace:Microsoft.VisualBasic.Activities;assembly=System.Activities" xmlns:p="http://schemas.uipath.com/workflow/activities/cv" xmlns:p1="http://schemas.uipath.com/workflow/activities/ocr" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:sap="http://schemas.microsoft.com/netfx/2009/xaml/activities/presentation" xmlns:sap2010="http://schemas.microsoft.com/netfx/2010/xaml/activities/presentation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:sd="clr-namespace:System.Drawing;assembly=System.Drawing" xmlns:sd1="clr-namespace:System.Data;assembly=System.Data" xmlns:uc="clr-namespace:UiPath.CV;assembly=UiPath.CV" xmlns:ui="http://schemas.uipath.com/workflow/activities" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TextExpression.NamespacesForImplementation>
+    <scg:List x:TypeArguments="x:String" Capacity="41">
+      <x:String>System.Activities</x:String>
+      <x:String>System.Activities.Statements</x:String>
+      <x:String>System.Activities.Expressions</x:String>
+      <x:String>System.Activities.Validation</x:String>
+      <x:String>System.Activities.XamlIntegration</x:String>
+      <x:String>Microsoft.VisualBasic</x:String>
+      <x:String>Microsoft.VisualBasic.Activities</x:String>
+      <x:String>System</x:String>
+      <x:String>System.Collections</x:String>
+      <x:String>System.Collections.Generic</x:String>
+      <x:String>System.Data</x:String>
+      <x:String>System.Diagnostics</x:String>
+      <x:String>System.Drawing</x:String>
+      <x:String>System.IO</x:String>
+      <x:String>System.Linq</x:String>
+      <x:String>System.Net.Mail</x:String>
+      <x:String>System.Xml</x:String>
+      <x:String>System.Xml.Linq</x:String>
+      <x:String>UiPath.Core</x:String>
+      <x:String>UiPath.Core.Activities</x:String>
+      <x:String>System.Windows.Markup</x:String>
+      <x:String>System.Collections.ObjectModel</x:String>
+      <x:String>System.Activities.DynamicUpdate</x:String>
+      <x:String>System.ComponentModel</x:String>
+      <x:String>System.Runtime.Serialization</x:String>
+      <x:String>System.Xml.Serialization</x:String>
+      <x:String>UiPath.Excel.Activities</x:String>
+      <x:String>UiPath.Excel</x:String>
+      <x:String>UiPath.Vision.OCR</x:String>
+      <x:String>UiPath.OCR.Contracts</x:String>
+      <x:String>System.Reflection</x:String>
+      <x:String>System.Runtime.InteropServices</x:String>
+      <x:String>UiPath.OCR.Activities</x:String>
+      <x:String>UiPath.OCR.Contracts.Activities</x:String>
+      <x:String>UiPath.CV</x:String>
+      <x:String>UiPath.Shared.ObjectLibrary</x:String>
+      <x:String>UiPath.CV.Activities</x:String>
+      <x:String>UiPath.CV.Activities.Interfaces</x:String>
+      <x:String>UiPath.Shared.Activities</x:String>
+      <x:String>UiPath.PDF.Activities</x:String>
+      <x:String>UiPath.Core.Activities.OCR.Engines</x:String>
+    </scg:List>
+  </TextExpression.NamespacesForImplementation>
+  <TextExpression.ReferencesForImplementation>
+    <scg:List x:TypeArguments="AssemblyReference" Capacity="34">
+      <AssemblyReference>System.Activities</AssemblyReference>
+      <AssemblyReference>Microsoft.VisualBasic</AssemblyReference>
+      <AssemblyReference>mscorlib</AssemblyReference>
+      <AssemblyReference>System.Data</AssemblyReference>
+      <AssemblyReference>System</AssemblyReference>
+      <AssemblyReference>System.Drawing</AssemblyReference>
+      <AssemblyReference>System.Core</AssemblyReference>
+      <AssemblyReference>System.Xml</AssemblyReference>
+      <AssemblyReference>System.Xml.Linq</AssemblyReference>
+      <AssemblyReference>PresentationFramework</AssemblyReference>
+      <AssemblyReference>WindowsBase</AssemblyReference>
+      <AssemblyReference>PresentationCore</AssemblyReference>
+      <AssemblyReference>System.Xaml</AssemblyReference>
+      <AssemblyReference>UiPath.System.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.UiAutomation.Activities</AssemblyReference>
+      <AssemblyReference>System.Data.DataSetExtensions</AssemblyReference>
+      <AssemblyReference>System.ServiceModel</AssemblyReference>
+      <AssemblyReference>System.ValueTuple</AssemblyReference>
+      <AssemblyReference>System.Memory</AssemblyReference>
+      <AssemblyReference>UiPath.Excel</AssemblyReference>
+      <AssemblyReference>UiPath.UIAutomationCore</AssemblyReference>
+      <AssemblyReference>UiPath.Mail</AssemblyReference>
+      <AssemblyReference>UiPath.OCR.Activities.Design</AssemblyReference>
+      <AssemblyReference>Microsoft.Bcl.AsyncInterfaces</AssemblyReference>
+      <AssemblyReference>System.Runtime.Serialization</AssemblyReference>
+      <AssemblyReference>UiPath.Excel.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.Vision.Core</AssemblyReference>
+      <AssemblyReference>UiPath.OCR.Contracts</AssemblyReference>
+      <AssemblyReference>UiPath.OCR.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.CV</AssemblyReference>
+      <AssemblyReference>UiPath.CV.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.Mail.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.System.Activities.Design</AssemblyReference>
+      <AssemblyReference>UiPath.PDF.Activities</AssemblyReference>
+    </scg:List>
+  </TextExpression.ReferencesForImplementation>
+  <Sequence sap:VirtualizedContainerService.HintSize="554.666666666667,2312" sap2010:WorkflowViewState.IdRef="Sequence_1">
+    <Sequence.Variables>
+      <Variable x:TypeArguments="x:String" Name="pdfpath" />
+      <Variable x:TypeArguments="s:String[]" Name="pdffiles" />
+      <Variable x:TypeArguments="sd1:DataTable" Name="DT" />
+      <Variable x:TypeArguments="sd1:DataTable" Name="result" />
+    </Sequence.Variables>
+    <sap:WorkflowViewStateService.ViewState>
+      <scg:Dictionary x:TypeArguments="x:String, x:Object">
+        <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+      </scg:Dictionary>
+    </sap:WorkflowViewStateService.ViewState>
+    <Assign sap:VirtualizedContainerService.HintSize="512.666666666667,62" sap2010:WorkflowViewState.IdRef="Assign_1">
+      <Assign.To>
+        <OutArgument x:TypeArguments="x:String">[pdfpath]</OutArgument>
+      </Assign.To>
+      <Assign.Value>
+        <InArgument x:TypeArguments="x:String">Images</InArgument>
+      </Assign.Value>
+    </Assign>
+    <Assign sap:VirtualizedContainerService.HintSize="512.666666666667,62" sap2010:WorkflowViewState.IdRef="Assign_2">
+      <Assign.To>
+        <OutArgument x:TypeArguments="s:String[]">[pdffiles]</OutArgument>
+      </Assign.To>
+      <Assign.Value>
+        <InArgument x:TypeArguments="s:String[]">[Directory.GetFiles(pdfpath,"*.pdf")]</InArgument>
+      </Assign.Value>
+    </Assign>
+    <ui:ForEach x:TypeArguments="x:Object" CurrentIndex="{x:Null}" DisplayName="For Each" sap:VirtualizedContainerService.HintSize="512.666666666667,1861.33333333333" sap2010:WorkflowViewState.IdRef="ForEach`1_1" Values="[pdffiles]">
+      <ui:ForEach.Body>
+        <ActivityAction x:TypeArguments="x:Object">
+          <ActivityAction.Argument>
+            <DelegateInArgument x:TypeArguments="x:Object" Name="file" />
+          </ActivityAction.Argument>
+          <Sequence DisplayName="Body" sap:VirtualizedContainerService.HintSize="476,1722.66666666667" sap2010:WorkflowViewState.IdRef="Sequence_4">
+            <sap:WorkflowViewStateService.ViewState>
+              <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+              </scg:Dictionary>
+            </sap:WorkflowViewStateService.ViewState>
+            <ui:StartProcess Arguments="{x:Null}" WorkingDirectory="{x:Null}" DisplayName="Start Process" FileName="[file.ToString]" sap:VirtualizedContainerService.HintSize="434,86.6666666666667" sap2010:WorkflowViewState.IdRef="StartProcess_1" />
+            <p:CVScope ContinueOnError="{x:Null}" DelayBefore="{x:Null}" Server="{x:Null}" ApiKey="+cYV5+5YOnffkNC+nkYiuTYA0GPflSeAFnq1M7by6xPPqUVuczlTRIyKqRzEWQEzpIIy9MFLPWtZWt9zw1ZN6w==" DesignTimeCacheId="bffa29cd-e671-47af-ba93-04c71da3949e" DisplayName="CV Screen Scope 'text ZNet'" sap:VirtualizedContainerService.HintSize="434,1504" sap2010:WorkflowViewState.IdRef="CVScope_1" Version="V2">
+              <p:CVScope.Body>
+                <ActivityAction x:TypeArguments="x:Object">
+                  <ActivityAction.Argument>
+                    <DelegateInArgument x:TypeArguments="x:Object" Name="CVSessionData" />
+                  </ActivityAction.Argument>
+                  <Sequence DisplayName="Do" sap2010:WorkflowViewState.IdRef="Sequence_5">
+                    <Sequence.Variables>
+                      <Variable x:TypeArguments="x:String" Name="name" />
+                      <Variable x:TypeArguments="x:String" Name="pan" />
+                      <Variable x:TypeArguments="x:String" Name="gstno" />
+                    </Sequence.Variables>
+                    <p:CvGetTextWithDescriptor Descriptor="[&quot;Target: AnyText (26,4,107,16)&quot; +&#xA;&quot;Anchor: Text 'INVG/20-21/9933' (55,36,52,8)&quot;]" DesignTimeCacheId="bffa29cd-e671-47af-ba93-04c71da3949e" DesignTimeScaleFactor="1.5" DisplayName="CV Get Text - Any Text" sap:VirtualizedContainerService.HintSize="400,170" sap2010:WorkflowViewState.IdRef="CvGetTextWithDescriptor_1" InformativeScreenshot="2b3b54d03d280bb3193d7e2db884188c" RefreshBefore="True" Result="[name]" Version="V2">
+                      <p:CvGetTextWithDescriptor.DesignTimeDescriptor>
+                        <uc:CvDescriptor>
+                          <uc:CvDescriptor.Anchors>
+                            <x:Array Type="uc:CvElementDescriptor">
+                              <uc:CvElementDescriptor DesignTimeArea="55, 36, 52, 8" ElementType="Text" Text="INVG/20-21/9933" />
+                            </x:Array>
+                          </uc:CvDescriptor.Anchors>
+                          <uc:CvDescriptor.Target>
+                            <uc:CvElementDescriptor DesignTimeArea="26, 4, 107, 16" ElementType="AnyText" />
+                          </uc:CvDescriptor.Target>
+                        </uc:CvDescriptor>
+                      </p:CvGetTextWithDescriptor.DesignTimeDescriptor>
+                    </p:CvGetTextWithDescriptor>
+                    <p:CvGetTextWithDescriptor Descriptor="[&quot;Target: AnyText (209,16,62,8)&quot; +&#xA;&quot;Anchor: Text '1 PAN No:' (271,16,31,8)&quot;]" DesignTimeCacheId="bffa29cd-e671-47af-ba93-04c71da3949e" DesignTimeScaleFactor="1.5" DisplayName="CV Get Text - Any Text" sap:VirtualizedContainerService.HintSize="400,170" sap2010:WorkflowViewState.IdRef="CvGetTextWithDescriptor_3" InformativeScreenshot="af83f062bdfd6f555430b8a87b717b6e" RefreshBefore="True" Result="[gstno]" Version="V2">
+                      <p:CvGetTextWithDescriptor.DesignTimeDescriptor>
+                        <uc:CvDescriptor>
+                          <uc:CvDescriptor.Anchors>
+                            <x:Array Type="uc:CvElementDescriptor">
+                              <uc:CvElementDescriptor DesignTimeArea="271, 16, 31, 8" ElementType="Text" Text="1 PAN No:" />
+                            </x:Array>
+                          </uc:CvDescriptor.Anchors>
+                          <uc:CvDescriptor.Target>
+                            <uc:CvElementDescriptor DesignTimeArea="209, 16, 62, 8" ElementType="AnyText" />
+                          </uc:CvDescriptor.Target>
+                        </uc:CvDescriptor>
+                      </p:CvGetTextWithDescriptor.DesignTimeDescriptor>
+                    </p:CvGetTextWithDescriptor>
+                    <p:CvGetTextWithDescriptor Descriptor="[&quot;Target: AnyText (301,16,43,8)&quot; +&#xA;&quot;Anchor: Text 'I CIN :' (344,16,20,7)&quot;]" DesignTimeCacheId="bffa29cd-e671-47af-ba93-04c71da3949e" DesignTimeScaleFactor="1.5" DisplayName="CV Get Text - Any Text" sap:VirtualizedContainerService.HintSize="400,170" sap2010:WorkflowViewState.IdRef="CvGetTextWithDescriptor_2" InformativeScreenshot="2787968f1b81e14c97d555a0a0b0e6d7" RefreshBefore="True" Result="[pan]" Version="V2">
+                      <p:CvGetTextWithDescriptor.DesignTimeDescriptor>
+                        <uc:CvDescriptor>
+                          <uc:CvDescriptor.Anchors>
+                            <x:Array Type="uc:CvElementDescriptor">
+                              <uc:CvElementDescriptor DesignTimeArea="344, 16, 20, 7" ElementType="Text" Text="I CIN :" />
+                            </x:Array>
+                          </uc:CvDescriptor.Anchors>
+                          <uc:CvDescriptor.Target>
+                            <uc:CvElementDescriptor DesignTimeArea="301, 16, 43, 8" ElementType="AnyText" />
+                          </uc:CvDescriptor.Target>
+                        </uc:CvDescriptor>
+                      </p:CvGetTextWithDescriptor.DesignTimeDescriptor>
+                    </p:CvGetTextWithDescriptor>
+                    <ui:CloseWindow TimeoutMS="{x:Null}" UseWindow="{x:Null}" DisplayName="Close Window 'acrord32.exe Znett_Invo...'" sap:VirtualizedContainerService.HintSize="400,106" sap2010:WorkflowViewState.IdRef="CloseWindow_1" InformativeScreenshot="bebdee3d187b12de44c265a2d3880a51" Selector="&lt;wnd app='acrord32.exe' cls='AcrobatSDIWindow' title='Znett_Invoice_INVG_20-21_9933.pdf - Adobe Reader' /&gt;" WaitForReady="INTERACTIVE" />
+                    <ui:MessageBox Caption="{x:Null}" ChosenButton="{x:Null}" DisplayName="Message Box" sap:VirtualizedContainerService.HintSize="400,58.6666666666667" sap2010:WorkflowViewState.IdRef="MessageBox_4" Text="[name]" />
+                    <ui:MessageBox Caption="{x:Null}" ChosenButton="{x:Null}" DisplayName="Message Box" sap:VirtualizedContainerService.HintSize="400,58.6666666666667" sap2010:WorkflowViewState.IdRef="MessageBox_5" Text="[gstno]" />
+                    <ui:MessageBox Caption="{x:Null}" ChosenButton="{x:Null}" DisplayName="Message Box" sap:VirtualizedContainerService.HintSize="400,58.6666666666667" sap2010:WorkflowViewState.IdRef="MessageBox_6" Text="[pan]" />
+                    <ui:BuildDataTable DataTable="[DT]" DisplayName="Build Data Table" sap:VirtualizedContainerService.HintSize="400,58.6666666666667" sap2010:WorkflowViewState.IdRef="BuildDataTable_1" TableInfo="&lt;NewDataSet&gt;&#xD;&#xA;  &lt;xs:schema id=&quot;NewDataSet&quot; xmlns=&quot;&quot; xmlns:xs=&quot;http://www.w3.org/2001/XMLSchema&quot; xmlns:msdata=&quot;urn:schemas-microsoft-com:xml-msdata&quot;&gt;&#xD;&#xA;    &lt;xs:element name=&quot;NewDataSet&quot; msdata:IsDataSet=&quot;true&quot; msdata:MainDataTable=&quot;TableName&quot; msdata:UseCurrentLocale=&quot;true&quot;&gt;&#xD;&#xA;      &lt;xs:complexType&gt;&#xD;&#xA;        &lt;xs:choice minOccurs=&quot;0&quot; maxOccurs=&quot;unbounded&quot;&gt;&#xD;&#xA;          &lt;xs:element name=&quot;TableName&quot;&gt;&#xD;&#xA;            &lt;xs:complexType&gt;&#xD;&#xA;              &lt;xs:sequence&gt;&#xD;&#xA;                &lt;xs:element name=&quot;NAME&quot; msdata:Caption=&quot;&quot; type=&quot;xs:string&quot; minOccurs=&quot;0&quot; /&gt;&#xD;&#xA;                &lt;xs:element name=&quot;GST_x0020_NO&quot; msdata:Caption=&quot;&quot; type=&quot;xs:string&quot; minOccurs=&quot;0&quot; /&gt;&#xD;&#xA;                &lt;xs:element name=&quot;PAN_x0020_NO&quot; msdata:Caption=&quot;&quot; type=&quot;xs:string&quot; minOccurs=&quot;0&quot; /&gt;&#xD;&#xA;              &lt;/xs:sequence&gt;&#xD;&#xA;            &lt;/xs:complexType&gt;&#xD;&#xA;          &lt;/xs:element&gt;&#xD;&#xA;        &lt;/xs:choice&gt;&#xD;&#xA;      &lt;/xs:complexType&gt;&#xD;&#xA;    &lt;/xs:element&gt;&#xD;&#xA;  &lt;/xs:schema&gt;&#xD;&#xA;&lt;/NewDataSet&gt;" />
+                    <ui:AddDataRow DataRow="{x:Null}" ArrayRow="[{name,gstno,pan}]" DataTable="[DT]" DisplayName="Add Data Row" sap:VirtualizedContainerService.HintSize="400,22" sap2010:WorkflowViewState.IdRef="AddDataRow_1" />
+                  </Sequence>
+                </ActivityAction>
+              </p:CVScope.Body>
+              <p:CVScope.DesignTimeCache>
+                <uc:CVCache CvUiElements="{x:Null}" OcrTexts="{x:Null}" />
+              </p:CVScope.DesignTimeCache>
+              <p:CVScope.DesignTimeCacheContainer>
+                <uc:CvCacheContainer>
+                  <uc:CvCacheContainer.Caches>
+                    <scg:List x:TypeArguments="uc:CVCache" Capacity="1">
+                      <uc:CVCache DisplayName="Main Screen" Id="bffa29cd-e671-47af-ba93-04c71da3949e" InformativeScreenshot="3d998ffd394a92b73e1cdc95adc24853" LogicalPosition="710, 180" OcrText="ZNet Technologies Private Limited ZNETLIVE D-10/52, Chitrakoot, Vaishali Nagar, Jaipur, Rajasthan, India GSTIN: :08AAACZ3965AIZD 1 PAN No: AAACZ3965A I CIN : U72200RJ2009PTC030491 Invoice No : INVG/20-21/9933 Due Date : 13/08/2020 Invoice Date : 06/08/2020 Paid Date : 06/08/2020 Details of Receiver (Billed to) Name : Gangadhar Wali Company Name : IDU NAMMADA LAB PRIVATE LIMITED Address : 2 Block, 3 Stage, 4C, Sushobit Residency, Basaveshwaranagar Main Road, Bengaluru, Kamataka, 560079, India Account ID : 108975 GSTIN ID : 29AAFCI3172BIZS S. Description of Goods SAC/HSN QTY UOM Rate Total Discount Taxable Value No. Code 1 Renewal of - E-mail ( Office 998315 17 Nos INR 1801.32 INR 30622.37 INR 7162.37 INR 23460.00 365 - Business Essential )- invibes.in Subscription ID : 8aeflab3.98e f-4544-b402-5f83dbe94966 (06/08/2020-05/08/2021) Subtotal INR 23460.00 IGST 18.00% INR 4222.80 Invoice Total INR 27682.80 ZNet Technologies Private Limited Bank Name: HDFC Bank, Beneficiary Name: ZNet Technologies Pvt. Ltd., Account No.: 50200009518883, Swift Code: HDFCINBBXXX, RTGS/NEFT/IFSC: HDFC0000554, Branch Name: Bright land School, Vaishali Nagar, Jaipur - 302021(Rajasthan, India) Bank Name: ICICI Bank, Beneficiary Name: ZNet Technologies Pvt Ltd.. . Account No.: 023505500236, Swift Code: ICICINBBCTS, RTGS/NEFT/IFSC ICIC0000235, Branch Name: Ground Floor, Plot No C-2, Saurav Tower, Vaishali Nagar, Jaipur-30202I(Rajasthan India) Always quote your Account Id or Invoice number in the reference during bank transfer. Your Account Id will be available in your latest invoice or below your profile picture on the top right comer of your member panel. If your invoice number is INV/19-20/14474, you will need to remove any special characters and then enter reference as INV192014474 in the reference during the bank transfer. It is NOT possible to match the account/service for which the payment was done if the account id/invoice reference is NOT mentioned correctly. This delay could lead to service disruptions. Invoice terms and conditions: It is recommended to make payments online via your member panel against a specific invoice. This is the quickest way to ensure that your account reflects the payments immediately. This will ensure that there is no service disruption. Payments are accepted through Credit Card, intemet banking, online transfer. For a new service, invoice can be cancelled within 45 days and is eligible for refund if service is covered under money back guarantee. For more details refer link htps://www.znetive.com/legal/acceptable-user-policy/. However, an invoice for renewal of a service would not be cancelled and shall not be eligible for refund. By paying the invoice, Customer/Subscriber acknowledses that the nature of the service purchased and the rates and charges have been communicated to him and the same are accepted by the Customer. Customer/Subscriber is aware that the company, at its sole" Position="710, 180" ScaleFactor="1.5" ScreenshotGuid="4efe29c6-033f-4861-8e26-a407730e4d2e" ServerVersion="1">
+                        <uc:CVCache.CvTables>
+                          <x:Array Type="uc:CvTableInfo">
+                            <uc:CvTableInfo>
+                              <uc:CvTableInfo.Columns>
+                                <x:Array Type="x:Int32">
+                                  <x:Int32>0</x:Int32>
+                                  <x:Int32>18</x:Int32>
+                                  <x:Int32>99</x:Int32>
+                                  <x:Int32>136</x:Int32>
+                                  <x:Int32>162</x:Int32>
+                                  <x:Int32>188</x:Int32>
+                                  <x:Int32>232</x:Int32>
+                                  <x:Int32>277</x:Int32>
+                                  <x:Int32>321</x:Int32>
+                                  <x:Int32>370</x:Int32>
+                                </x:Array>
+                              </uc:CvTableInfo.Columns>
+                              <uc:CvTableInfo.Rows>
+                                <x:Array Type="x:Int32">
+                                  <x:Int32>126</x:Int32>
+                                  <x:Int32>150</x:Int32>
+                                  <x:Int32>163</x:Int32>
+                                  <x:Int32>172</x:Int32>
+                                  <x:Int32>182</x:Int32>
+                                  <x:Int32>190</x:Int32>
+                                  <x:Int32>204</x:Int32>
+                                </x:Array>
+                              </uc:CvTableInfo.Rows>
+                            </uc:CvTableInfo>
+                            <uc:CvTableInfo>
+                              <uc:CvTableInfo.Columns>
+                                <x:Array Type="x:Int32">
+                                  <x:Int32>0</x:Int32>
+                                  <x:Int32>371</x:Int32>
+                                </x:Array>
+                              </uc:CvTableInfo.Columns>
+                              <uc:CvTableInfo.Rows>
+                                <x:Array Type="x:Int32">
+                                  <x:Int32>34</x:Int32>
+                                  <x:Int32>53</x:Int32>
+                                  <x:Int32>69</x:Int32>
+                                </x:Array>
+                              </uc:CvTableInfo.Rows>
+                            </uc:CvTableInfo>
+                          </x:Array>
+                        </uc:CVCache.CvTables>
+                        <uc:CVCache.CvUiElements>
+                          <scg:List x:TypeArguments="uc:CvElementInfo" Capacity="64">
+                            <uc:CvElementInfo Category="Icon" Region="135, 5, 17, 14" />
+                            <uc:CvElementInfo Category="Cell" Region="321, 126, 48, 23" />
+                            <uc:CvElementInfo Category="Cell" Region="277, 126, 44, 23" />
+                            <uc:CvElementInfo Category="Cell" Region="232, 126, 45, 23" />
+                            <uc:CvElementInfo Category="Cell" Region="99, 126, 37, 23" />
+                            <uc:CvElementInfo Category="Cell" Region="18, 126, 81, 23" />
+                            <uc:CvElementInfo Category="Cell" Region="188, 126, 43, 23" />
+                            <uc:CvElementInfo Category="Cell" Region="0, 126, 18, 23" />
+                            <uc:CvElementInfo Category="Cell" Region="136, 126, 25, 23" />
+                            <uc:CvElementInfo Category="Cell" Region="162, 126, 26, 23" />
+                            <uc:CvElementInfo Category="Cell" Region="99, 150, 37, 22" />
+                            <uc:CvElementInfo Category="Cell" Region="321, 150, 48, 22" />
+                            <uc:CvElementInfo Category="Cell" Region="136, 150, 25, 22" />
+                            <uc:CvElementInfo Category="Cell" Region="277, 150, 44, 22" />
+                            <uc:CvElementInfo Category="Cell" Region="18, 150, 81, 22" />
+                            <uc:CvElementInfo Category="Cell" Region="371, 34, 0, 18" />
+                            <uc:CvElementInfo Category="Cell" Region="188, 150, 43, 22" />
+                            <uc:CvElementInfo Category="Cell" Region="162, 150, 26, 22" />
+                            <uc:CvElementInfo Category="Cell" Region="99, 172, 37, 32" />
+                            <uc:CvElementInfo Category="Cell" Region="232, 150, 45, 13" />
+                            <uc:CvElementInfo Category="Cell" Region="186, 255, 181, 16" />
+                            <uc:CvElementInfo Category="Cell" Region="0, 190, 18, 13" />
+                            <uc:CvElementInfo Category="InputBox" Confidence="Runtime" Region="10, 278, 362, 225" />
+                            <uc:CvElementInfo Category="Icon" Confidence="Runtime" Region="119, 4, 20, 15" />
+                            <uc:CvElementInfo Category="Cell" Confidence="Runtime" Region="0, 34, 371, 18" />
+                            <uc:CvElementInfo Category="Cell" Confidence="Runtime" Region="18, 190, 81, 13" />
+                            <uc:CvElementInfo Category="Cell" Confidence="Runtime" Region="18, 172, 81, 32" />
+                            <uc:CvElementInfo Category="Cell" Confidence="Runtime" Region="0, 182, 18, 8" />
+                            <uc:CvElementInfo Category="Cell" Confidence="Runtime" Region="181, 2, 188, 32" />
+                            <uc:CvElementInfo Category="Cell" Confidence="Runtime" Region="0, 70, 52, 62" />
+                            <uc:CvElementInfo Category="Cell" Confidence="Runtime" Region="0, 110, 54, 16" />
+                            <uc:CvElementInfo Category="Cell" Confidence="Runtime" Region="0, 34, 0, 18" />
+                            <uc:CvElementInfo Category="Cell" Confidence="Runtime" Region="174, 271, 192, 17" />
+                            <uc:CvElementInfo Category="Cell" Confidence="Runtime" Region="18, 172, 81, 10" />
+                            <uc:CvElementInfo Category="Cell" Confidence="Runtime" Region="0, 53, 371, 16" />
+                            <uc:CvElementInfo Category="Cell" Confidence="Runtime" Region="0, 150, 18, 13" />
+                            <uc:CvElementInfo Category="Cell" Confidence="Runtime" Region="0, 172, 18, 10" />
+                            <uc:CvElementInfo Category="Cell" Confidence="Runtime" Region="0, 82, 54, 29" />
+                            <uc:CvElementInfo Category="Cell" Confidence="Runtime" Region="50, 22, 138, 13" />
+                            <uc:CvElementInfo Category="Cell" Confidence="Runtime" Region="0, 78, 54, 19" />
+                            <uc:CvElementInfo Category="Cell" Confidence="Runtime" Region="135, 172, 28, 42" />
+                            <uc:CvElementInfo Category="Cell" Confidence="Runtime" Region="192, 238, 174, 17" />
+                            <uc:CvElementInfo Category="Cell" Confidence="Runtime" Region="0, 76, 54, 9" />
+                            <uc:CvElementInfo Category="Cell" Confidence="Runtime" Region="0, 73, 21, 55" />
+                            <uc:CvElementInfo Category="Cell" Confidence="Runtime" Region="0, 110, 20, 17" />
+                            <uc:CvElementInfo Category="Cell" Confidence="Runtime" Region="0, 68, 54, 9" />
+                            <uc:CvElementInfo Category="Cell" Confidence="Runtime" Region="13, 270, 294, 18" />
+                            <uc:CvElementInfo Category="Cell" Confidence="Runtime" Region="320, 224, 50, 15" />
+                          </scg:List>
+                        </uc:CVCache.CvUiElements>
+                        <uc:CVCache.OcrTexts>
+                          <scg:List x:TypeArguments="uc:OcrTextInfo" Capacity="512">
+                            <uc:OcrTextInfo Region="190, 0, 16, 6" Text="ZNet" />
+                            <uc:OcrTextInfo Region="205, 0, 37, 8" Text="Technologies" />
+                            <uc:OcrTextInfo Region="242, 0, 21, 7" Text="Private" />
+                            <uc:OcrTextInfo Region="262, 0, 23, 7" Text="Limited" />
+                            <uc:OcrTextInfo Region="26, 4, 131, 16" Text="ZNETLIVE" />
+                            <uc:OcrTextInfo Region="188, 7, 25, 8" Text="D-10/52," />
+                            <uc:OcrTextInfo Region="214, 7, 32, 8" Text="Chitrakoot," />
+                            <uc:OcrTextInfo Region="246, 7, 23, 7" Text="Vaishali" />
+                            <uc:OcrTextInfo Region="269, 7, 20, 8" Text="Nagar," />
+                            <uc:OcrTextInfo Region="288, 8, 19, 8" Text="Jaipur," />
+                            <uc:OcrTextInfo Region="307, 7, 30, 8" Text="Rajasthan," />
+                            <uc:OcrTextInfo Region="337, 8, 16, 6" Text="India" />
+                            <uc:OcrTextInfo Region="188, 16, 22, 8" Text="GSTIN:" />
+                            <uc:OcrTextInfo Region="209, 16, 62, 8" Text=":08AAACZ3965AIZD" />
+                            <uc:OcrTextInfo Region="271, 16, 4, 7" Text="1" />
+                            <uc:OcrTextInfo Region="274, 16, 16, 7" Text="PAN" />
+                            <uc:OcrTextInfo Region="290, 16, 12, 8" Text="No:" />
+                            <uc:OcrTextInfo Region="301, 16, 43, 8" Text="AAACZ3965A" />
+                            <uc:OcrTextInfo Region="344, 16, 4, 7" Text="I" />
+                            <uc:OcrTextInfo Region="347, 16, 14, 6" Text="CIN" />
+                            <uc:OcrTextInfo Region="360, 17, 4, 6" Text=":" />
+                            <uc:OcrTextInfo Region="188, 24, 75, 8" Text="U72200RJ2009PTC030491" />
+                            <uc:OcrTextInfo Region="2, 37, 23, 7" Text="Invoice" />
+                            <uc:OcrTextInfo Region="24, 36, 11, 8" Text="No" />
+                            <uc:OcrTextInfo Region="52, 38, 4, 6" Text=":" />
+                            <uc:OcrTextInfo Region="55, 36, 52, 8" Text="INVG/20-21/9933" />
+                            <uc:OcrTextInfo Region="188, 37, 14, 7" Text="Due" />
+                            <uc:OcrTextInfo Region="202, 37, 16, 7" Text="Date" />
+                            <uc:OcrTextInfo Region="239, 37, 5, 6" Text=":" />
+                            <uc:OcrTextInfo Region="244, 36, 32, 8" Text="13/08/2020" />
+                            <uc:OcrTextInfo Region="3, 45, 22, 8" Text="Invoice" />
+                            <uc:OcrTextInfo Region="25, 45, 16, 8" Text="Date" />
+                            <uc:OcrTextInfo Region="52, 46, 4, 6" Text=":" />
+                            <uc:OcrTextInfo Region="55, 45, 32, 8" Text="06/08/2020" />
+                            <uc:OcrTextInfo Region="188, 45, 16, 7" Text="Paid" />
+                            <uc:OcrTextInfo Region="203, 45, 16, 7" Text="Date" />
+                            <uc:OcrTextInfo Region="239, 46, 4, 6" Text=":" />
+                            <uc:OcrTextInfo Region="243, 45, 32, 8" Text="06/08/2020" />
+                            <uc:OcrTextInfo Region="2, 58, 22, 8" Text="Details" />
+                            <uc:OcrTextInfo Region="23, 58, 8, 8" Text="of" />
+                            <uc:OcrTextInfo Region="31, 58, 26, 8" Text="Receiver" />
+                            <uc:OcrTextInfo Region="57, 58, 21, 8" Text="(Billed" />
+                            <uc:OcrTextInfo Region="78, 58, 10, 7" Text="to)" />
+                            <uc:OcrTextInfo Region="2, 71, 18, 7" Text="Name" />
+                            <uc:OcrTextInfo Region="52, 72, 4, 6" Text=":" />
+                            <uc:OcrTextInfo Region="56, 71, 30, 8" Text="Gangadhar" />
+                            <uc:OcrTextInfo Region="87, 71, 14, 6" Text="Wali" />
+                            <uc:OcrTextInfo Region="2, 79, 28, 8" Text="Company" />
+                            <uc:OcrTextInfo Region="30, 78, 19, 8" Text="Name" />
+                            <uc:OcrTextInfo Region="52, 80, 4, 6" Text=":" />
+                            <uc:OcrTextInfo Region="57, 78, 13, 8" Text="IDU" />
+                            <uc:OcrTextInfo Region="70, 78, 38, 8" Text="NAMMADA" />
+                            <uc:OcrTextInfo Region="107, 78, 15, 8" Text="LAB" />
+                            <uc:OcrTextInfo Region="122, 78, 30, 8" Text="PRIVATE" />
+                            <uc:OcrTextInfo Region="152, 79, 29, 7" Text="LIMITED" />
+                            <uc:OcrTextInfo Region="2, 87, 26, 8" Text="Address" />
+                            <uc:OcrTextInfo Region="52, 88, 4, 6" Text=":" />
+                            <uc:OcrTextInfo Region="56, 87, 6, 7" Text="2" />
+                            <uc:OcrTextInfo Region="61, 87, 19, 8" Text="Block," />
+                            <uc:OcrTextInfo Region="80, 87, 5, 8" Text="3" />
+                            <uc:OcrTextInfo Region="85, 88, 18, 8" Text="Stage," />
+                            <uc:OcrTextInfo Region="103, 87, 11, 8" Text="4C," />
+                            <uc:OcrTextInfo Region="114, 87, 24, 8" Text="Sushobit" />
+                            <uc:OcrTextInfo Region="139, 88, 30, 8" Text="Residency," />
+                            <uc:OcrTextInfo Region="57, 95, 52, 8" Text="Basaveshwaranagar" />
+                            <uc:OcrTextInfo Region="110, 95, 15, 8" Text="Main" />
+                            <uc:OcrTextInfo Region="125, 95, 17, 8" Text="Road," />
+                            <uc:OcrTextInfo Region="142, 96, 30, 8" Text="Bengaluru," />
+                            <uc:OcrTextInfo Region="57, 103, 30, 8" Text="Kamataka," />
+                            <uc:OcrTextInfo Region="88, 103, 22, 8" Text="560079," />
+                            <uc:OcrTextInfo Region="110, 103, 16, 8" Text="India" />
+                            <uc:OcrTextInfo Region="2, 112, 25, 7" Text="Account" />
+                            <uc:OcrTextInfo Region="27, 112, 10, 8" Text="ID" />
+                            <uc:OcrTextInfo Region="52, 113, 4, 6" Text=":" />
+                            <uc:OcrTextInfo Region="58, 112, 21, 8" Text="108975" />
+                            <uc:OcrTextInfo Region="2, 120, 23, 8" Text="GSTIN" />
+                            <uc:OcrTextInfo Region="24, 119, 10, 8" Text="ID" />
+                            <uc:OcrTextInfo Region="52, 121, 4, 6" Text=":" />
+                            <uc:OcrTextInfo Region="60, 120, 56, 8" Text="29AAFCI3172BIZS" />
+                            <uc:OcrTextInfo Region="0, 131, 8, 8" Text="S." />
+                            <uc:OcrTextInfo Region="20, 131, 35, 9" Text="Description" />
+                            <uc:OcrTextInfo Region="54, 131, 8, 8" Text="of" />
+                            <uc:OcrTextInfo Region="62, 131, 20, 8" Text="Goods" />
+                            <uc:OcrTextInfo Region="102, 131, 30, 8" Text="SAC/HSN" />
+                            <uc:OcrTextInfo Region="140, 132, 16, 7" Text="QTY" />
+                            <uc:OcrTextInfo Region="165, 131, 19, 8" Text="UOM" />
+                            <uc:OcrTextInfo Region="214, 131, 16, 8" Text="Rate" />
+                            <uc:OcrTextInfo Region="257, 131, 17, 8" Text="Total" />
+                            <uc:OcrTextInfo Region="291, 132, 28, 7" Text="Discount" />
+                            <uc:OcrTextInfo Region="324, 131, 24, 8" Text="Taxable" />
+                            <uc:OcrTextInfo Region="348, 131, 19, 8" Text="Value" />
+                            <uc:OcrTextInfo Region="2, 140, 12, 7" Text="No." />
+                            <uc:OcrTextInfo Region="102, 139, 17, 8" Text="Code" />
+                            <uc:OcrTextInfo Region="1, 153, 5, 7" Text="1" />
+                            <uc:OcrTextInfo Region="20, 153, 24, 7" Text="Renewal" />
+                            <uc:OcrTextInfo Region="44, 153, 9, 7" Text="of" />
+                            <uc:OcrTextInfo Region="52, 154, 4, 6" Text="-" />
+                            <uc:OcrTextInfo Region="56, 153, 19, 7" Text="E-mail" />
+                            <uc:OcrTextInfo Region="74, 153, 4, 7" Text="(" />
+                            <uc:OcrTextInfo Region="76, 153, 19, 7" Text="Office" />
+                            <uc:OcrTextInfo Region="106, 153, 20, 7" Text="998315" />
+                            <uc:OcrTextInfo Region="145, 153, 8, 6" Text="17" />
+                            <uc:OcrTextInfo Region="168, 153, 12, 7" Text="Nos" />
+                            <uc:OcrTextInfo Region="196, 153, 12, 7" Text="INR" />
+                            <uc:OcrTextInfo Region="208, 153, 21, 7" Text="1801.32" />
+                            <uc:OcrTextInfo Region="237, 153, 13, 7" Text="INR" />
+                            <uc:OcrTextInfo Region="249, 153, 24, 6" Text="30622.37" />
+                            <uc:OcrTextInfo Region="285, 153, 12, 7" Text="INR" />
+                            <uc:OcrTextInfo Region="297, 153, 21, 7" Text="7162.37" />
+                            <uc:OcrTextInfo Region="330, 153, 12, 7" Text="INR" />
+                            <uc:OcrTextInfo Region="342, 153, 24, 6" Text="23460.00" />
+                            <uc:OcrTextInfo Region="20, 161, 12, 6" Text="365" />
+                            <uc:OcrTextInfo Region="30, 162, 4, 6" Text="-" />
+                            <uc:OcrTextInfo Region="34, 161, 22, 7" Text="Business" />
+                            <uc:OcrTextInfo Region="56, 161, 24, 7" Text="Essential" />
+                            <uc:OcrTextInfo Region="80, 161, 7, 8" Text=")-" />
+                            <uc:OcrTextInfo Region="20, 168, 25, 7" Text="invibes.in" />
+                            <uc:OcrTextInfo Region="20, 176, 32, 8" Text="Subscription" />
+                            <uc:OcrTextInfo Region="52, 176, 9, 7" Text="ID" />
+                            <uc:OcrTextInfo Region="60, 176, 4, 6" Text=":" />
+                            <uc:OcrTextInfo Region="62, 175, 36, 8" Text="8aeflab3.98e" />
+                            <uc:OcrTextInfo Region="18, 183, 74, 8" Text="f-4544-b402-5f83dbe94966" />
+                            <uc:OcrTextInfo Region="20, 190, 64, 8" Text="(06/08/2020-05/08/2021)" />
+                            <uc:OcrTextInfo Region="266, 228, 26, 7" Text="Subtotal" />
+                            <uc:OcrTextInfo Region="327, 228, 13, 7" Text="INR" />
+                            <uc:OcrTextInfo Region="340, 228, 27, 8" Text="23460.00" />
+                            <uc:OcrTextInfo Region="252, 244, 17, 7" Text="IGST" />
+                            <uc:OcrTextInfo Region="270, 244, 22, 7" Text="18.00%" />
+                            <uc:OcrTextInfo Region="329, 244, 13, 6" Text="INR" />
+                            <uc:OcrTextInfo Region="343, 244, 24, 6" Text="4222.80" />
+                            <uc:OcrTextInfo Region="254, 260, 22, 7" Text="Invoice" />
+                            <uc:OcrTextInfo Region="276, 260, 17, 8" Text="Total" />
+                            <uc:OcrTextInfo Region="327, 260, 13, 7" Text="INR" />
+                            <uc:OcrTextInfo Region="340, 260, 26, 7" Text="27682.80" />
+                            <uc:OcrTextInfo Region="287, 278, 14, 6" Text="ZNet" />
+                            <uc:OcrTextInfo Region="300, 277, 33, 8" Text="Technologies" />
+                            <uc:OcrTextInfo Region="333, 278, 19, 6" Text="Private" />
+                            <uc:OcrTextInfo Region="352, 277, 19, 7" Text="Limited" />
+                            <uc:OcrTextInfo Region="0, 290, 16, 7" Text="Bank" />
+                            <uc:OcrTextInfo Region="14, 290, 22, 7" Text="Name:" />
+                            <uc:OcrTextInfo Region="35, 290, 20, 7" Text="HDFC" />
+                            <uc:OcrTextInfo Region="55, 290, 17, 7" Text="Bank," />
+                            <uc:OcrTextInfo Region="72, 290, 34, 8" Text="Beneficiary" />
+                            <uc:OcrTextInfo Region="106, 290, 20, 7" Text="Name:" />
+                            <uc:OcrTextInfo Region="126, 290, 16, 7" Text="ZNet" />
+                            <uc:OcrTextInfo Region="142, 289, 37, 8" Text="Technologies" />
+                            <uc:OcrTextInfo Region="179, 290, 12, 7" Text="Pvt." />
+                            <uc:OcrTextInfo Region="191, 290, 14, 7" Text="Ltd.," />
+                            <uc:OcrTextInfo Region="205, 290, 26, 7" Text="Account" />
+                            <uc:OcrTextInfo Region="230, 290, 13, 7" Text="No.:" />
+                            <uc:OcrTextInfo Region="244, 290, 50, 7" Text="50200009518883," />
+                            <uc:OcrTextInfo Region="294, 290, 18, 7" Text="Swift" />
+                            <uc:OcrTextInfo Region="311, 290, 18, 7" Text="Code:" />
+                            <uc:OcrTextInfo Region="0, 298, 49, 8" Text="HDFCINBBXXX," />
+                            <uc:OcrTextInfo Region="49, 298, 58, 8" Text="RTGS/NEFT/IFSC:" />
+                            <uc:OcrTextInfo Region="107, 298, 44, 8" Text="HDFC0000554," />
+                            <uc:OcrTextInfo Region="152, 298, 22, 8" Text="Branch" />
+                            <uc:OcrTextInfo Region="174, 298, 21, 8" Text="Name:" />
+                            <uc:OcrTextInfo Region="194, 298, 18, 8" Text="Bright" />
+                            <uc:OcrTextInfo Region="212, 298, 14, 8" Text="land" />
+                            <uc:OcrTextInfo Region="225, 297, 22, 8" Text="School," />
+                            <uc:OcrTextInfo Region="247, 298, 23, 8" Text="Vaishali" />
+                            <uc:OcrTextInfo Region="270, 298, 20, 8" Text="Nagar," />
+                            <uc:OcrTextInfo Region="290, 298, 17, 9" Text="Jaipur" />
+                            <uc:OcrTextInfo Region="307, 299, 4, 6" Text="-" />
+                            <uc:OcrTextInfo Region="311, 298, 52, 8" Text="302021(Rajasthan," />
+                            <uc:OcrTextInfo Region="0, 306, 16, 8" Text="India)" />
+                            <uc:OcrTextInfo Region="0, 322, 16, 8" Text="Bank" />
+                            <uc:OcrTextInfo Region="15, 322, 21, 8" Text="Name:" />
+                            <uc:OcrTextInfo Region="36, 323, 17, 6" Text="ICICI" />
+                            <uc:OcrTextInfo Region="53, 322, 16, 8" Text="Bank," />
+                            <uc:OcrTextInfo Region="70, 322, 34, 8" Text="Beneficiary" />
+                            <uc:OcrTextInfo Region="104, 322, 20, 8" Text="Name:" />
+                            <uc:OcrTextInfo Region="124, 322, 16, 8" Text="ZNet" />
+                            <uc:OcrTextInfo Region="140, 322, 37, 8" Text="Technologies" />
+                            <uc:OcrTextInfo Region="176, 322, 11, 8" Text="Pvt" />
+                            <uc:OcrTextInfo Region="187, 322, 13, 7" Text="Ltd.." />
+                            <uc:OcrTextInfo Region="198, 324, 4, 6" Text="." />
+                            <uc:OcrTextInfo Region="202, 323, 25, 7" Text="Account" />
+                            <uc:OcrTextInfo Region="226, 322, 14, 7" Text="No.:" />
+                            <uc:OcrTextInfo Region="240, 322, 43, 8" Text="023505500236," />
+                            <uc:OcrTextInfo Region="283, 322, 18, 8" Text="Swift" />
+                            <uc:OcrTextInfo Region="300, 322, 18, 8" Text="Code:" />
+                            <uc:OcrTextInfo Region="318, 322, 43, 8" Text="ICICINBBCTS," />
+                            <uc:OcrTextInfo Region="0, 330, 56, 8" Text="RTGS/NEFT/IFSC" />
+                            <uc:OcrTextInfo Region="57, 330, 39, 8" Text="ICIC0000235," />
+                            <uc:OcrTextInfo Region="96, 330, 23, 8" Text="Branch" />
+                            <uc:OcrTextInfo Region="119, 330, 20, 8" Text="Name:" />
+                            <uc:OcrTextInfo Region="140, 330, 22, 8" Text="Ground" />
+                            <uc:OcrTextInfo Region="161, 330, 18, 8" Text="Floor," />
+                            <uc:OcrTextInfo Region="179, 330, 12, 8" Text="Plot" />
+                            <uc:OcrTextInfo Region="192, 330, 10, 8" Text="No" />
+                            <uc:OcrTextInfo Region="198, 330, 16, 8" Text="C-2," />
+                            <uc:OcrTextInfo Region="214, 330, 20, 8" Text="Saurav" />
+                            <uc:OcrTextInfo Region="234, 330, 21, 8" Text="Tower," />
+                            <uc:OcrTextInfo Region="254, 330, 24, 8" Text="Vaishali" />
+                            <uc:OcrTextInfo Region="277, 330, 20, 8" Text="Nagar," />
+                            <uc:OcrTextInfo Region="297, 330, 67, 8" Text="Jaipur-30202I(Rajasthan" />
+                            <uc:OcrTextInfo Region="0, 339, 16, 8" Text="India)" />
+                            <uc:OcrTextInfo Region="0, 356, 20, 9" Text="Always" />
+                            <uc:OcrTextInfo Region="19, 357, 17, 7" Text="quote" />
+                            <uc:OcrTextInfo Region="36, 358, 14, 6" Text="your" />
+                            <uc:OcrTextInfo Region="50, 356, 24, 7" Text="Account" />
+                            <uc:OcrTextInfo Region="74, 356, 7, 8" Text="Id" />
+                            <uc:OcrTextInfo Region="80, 356, 8, 7" Text="or" />
+                            <uc:OcrTextInfo Region="88, 356, 22, 7" Text="Invoice" />
+                            <uc:OcrTextInfo Region="108, 356, 22, 8" Text="number" />
+                            <uc:OcrTextInfo Region="131, 356, 7, 7" Text="in" />
+                            <uc:OcrTextInfo Region="138, 356, 10, 8" Text="the" />
+                            <uc:OcrTextInfo Region="148, 356, 26, 7" Text="reference" />
+                            <uc:OcrTextInfo Region="174, 356, 19, 8" Text="during" />
+                            <uc:OcrTextInfo Region="193, 356, 14, 8" Text="bank" />
+                            <uc:OcrTextInfo Region="207, 356, 24, 8" Text="transfer." />
+                            <uc:OcrTextInfo Region="231, 356, 16, 8" Text="Your" />
+                            <uc:OcrTextInfo Region="246, 356, 24, 7" Text="Account" />
+                            <uc:OcrTextInfo Region="270, 356, 8, 8" Text="Id" />
+                            <uc:OcrTextInfo Region="277, 356, 12, 8" Text="will" />
+                            <uc:OcrTextInfo Region="288, 356, 8, 8" Text="be" />
+                            <uc:OcrTextInfo Region="297, 356, 24, 7" Text="available" />
+                            <uc:OcrTextInfo Region="322, 356, 7, 8" Text="in" />
+                            <uc:OcrTextInfo Region="328, 357, 14, 6" Text="your" />
+                            <uc:OcrTextInfo Region="342, 356, 16, 7" Text="latest" />
+                            <uc:OcrTextInfo Region="0, 364, 20, 7" Text="invoice" />
+                            <uc:OcrTextInfo Region="19, 364, 8, 7" Text="or" />
+                            <uc:OcrTextInfo Region="26, 364, 18, 7" Text="below" />
+                            <uc:OcrTextInfo Region="44, 365, 14, 7" Text="your" />
+                            <uc:OcrTextInfo Region="58, 364, 20, 9" Text="profile" />
+                            <uc:OcrTextInfo Region="77, 364, 21, 8" Text="picture" />
+                            <uc:OcrTextInfo Region="97, 365, 8, 6" Text="on" />
+                            <uc:OcrTextInfo Region="105, 364, 10, 6" Text="the" />
+                            <uc:OcrTextInfo Region="115, 365, 11, 7" Text="top" />
+                            <uc:OcrTextInfo Region="125, 364, 14, 8" Text="right" />
+                            <uc:OcrTextInfo Region="139, 364, 19, 7" Text="comer" />
+                            <uc:OcrTextInfo Region="158, 364, 8, 8" Text="of" />
+                            <uc:OcrTextInfo Region="166, 365, 14, 7" Text="your" />
+                            <uc:OcrTextInfo Region="179, 364, 24, 7" Text="member" />
+                            <uc:OcrTextInfo Region="202, 364, 17, 8" Text="panel." />
+                            <uc:OcrTextInfo Region="220, 364, 7, 8" Text="If" />
+                            <uc:OcrTextInfo Region="226, 365, 14, 7" Text="your" />
+                            <uc:OcrTextInfo Region="240, 364, 21, 7" Text="invoice" />
+                            <uc:OcrTextInfo Region="260, 364, 22, 7" Text="number" />
+                            <uc:OcrTextInfo Region="282, 364, 7, 7" Text="is" />
+                            <uc:OcrTextInfo Region="290, 364, 50, 8" Text="INV/19-20/14474," />
+                            <uc:OcrTextInfo Region="340, 365, 11, 6" Text="you" />
+                            <uc:OcrTextInfo Region="350, 364, 12, 8" Text="will" />
+                            <uc:OcrTextInfo Region="0, 372, 13, 8" Text="need" />
+                            <uc:OcrTextInfo Region="12, 372, 8, 7" Text="to" />
+                            <uc:OcrTextInfo Region="19, 373, 22, 6" Text="remove" />
+                            <uc:OcrTextInfo Region="40, 373, 12, 7" Text="any" />
+                            <uc:OcrTextInfo Region="51, 372, 21, 8" Text="special" />
+                            <uc:OcrTextInfo Region="72, 372, 28, 8" Text="characters" />
+                            <uc:OcrTextInfo Region="100, 372, 12, 7" Text="and" />
+                            <uc:OcrTextInfo Region="111, 372, 13, 6" Text="then" />
+                            <uc:OcrTextInfo Region="124, 373, 16, 6" Text="enter" />
+                            <uc:OcrTextInfo Region="139, 372, 27, 7" Text="reference" />
+                            <uc:OcrTextInfo Region="166, 373, 8, 6" Text="as" />
+                            <uc:OcrTextInfo Region="173, 372, 43, 8" Text="INV192014474" />
+                            <uc:OcrTextInfo Region="216, 372, 7, 7" Text="in" />
+                            <uc:OcrTextInfo Region="222, 372, 10, 6" Text="the" />
+                            <uc:OcrTextInfo Region="232, 372, 26, 7" Text="reference" />
+                            <uc:OcrTextInfo Region="259, 372, 19, 8" Text="during" />
+                            <uc:OcrTextInfo Region="278, 372, 10, 7" Text="the" />
+                            <uc:OcrTextInfo Region="287, 372, 15, 8" Text="bank" />
+                            <uc:OcrTextInfo Region="302, 372, 24, 7" Text="transfer." />
+                            <uc:OcrTextInfo Region="325, 372, 6, 8" Text="It" />
+                            <uc:OcrTextInfo Region="331, 372, 6, 7" Text="is" />
+                            <uc:OcrTextInfo Region="337, 372, 16, 7" Text="NOT" />
+                            <uc:OcrTextInfo Region="0, 380, 22, 8" Text="possible" />
+                            <uc:OcrTextInfo Region="21, 382, 8, 6" Text="to" />
+                            <uc:OcrTextInfo Region="28, 381, 18, 7" Text="match" />
+                            <uc:OcrTextInfo Region="46, 381, 10, 6" Text="the" />
+                            <uc:OcrTextInfo Region="56, 380, 42, 8" Text="account/service" />
+                            <uc:OcrTextInfo Region="98, 380, 10, 8" Text="for" />
+                            <uc:OcrTextInfo Region="108, 380, 18, 8" Text="which" />
+                            <uc:OcrTextInfo Region="126, 381, 10, 7" Text="the" />
+                            <uc:OcrTextInfo Region="136, 382, 24, 8" Text="payment" />
+                            <uc:OcrTextInfo Region="160, 382, 12, 6" Text="was" />
+                            <uc:OcrTextInfo Region="171, 380, 15, 8" Text="done" />
+                            <uc:OcrTextInfo Region="186, 380, 6, 8" Text="if" />
+                            <uc:OcrTextInfo Region="192, 380, 10, 8" Text="the" />
+                            <uc:OcrTextInfo Region="201, 381, 23, 7" Text="account" />
+                            <uc:OcrTextInfo Region="224, 380, 28, 8" Text="id/invoice" />
+                            <uc:OcrTextInfo Region="251, 380, 28, 8" Text="reference" />
+                            <uc:OcrTextInfo Region="278, 380, 6, 8" Text="is" />
+                            <uc:OcrTextInfo Region="284, 380, 16, 8" Text="NOT" />
+                            <uc:OcrTextInfo Region="299, 381, 30, 7" Text="mentioned" />
+                            <uc:OcrTextInfo Region="328, 380, 26, 8" Text="correctly." />
+                            <uc:OcrTextInfo Region="354, 381, 14, 6" Text="This" />
+                            <uc:OcrTextInfo Region="0, 388, 14, 8" Text="delay" />
+                            <uc:OcrTextInfo Region="14, 388, 17, 8" Text="could" />
+                            <uc:OcrTextInfo Region="30, 388, 14, 8" Text="lead" />
+                            <uc:OcrTextInfo Region="43, 389, 7, 7" Text="to" />
+                            <uc:OcrTextInfo Region="50, 389, 20, 7" Text="service" />
+                            <uc:OcrTextInfo Region="70, 388, 32, 9" Text="disruptions." />
+                            <uc:OcrTextInfo Region="0, 406, 23, 8" Text="Invoice" />
+                            <uc:OcrTextInfo Region="23, 407, 19, 7" Text="terms" />
+                            <uc:OcrTextInfo Region="42, 406, 14, 8" Text="and" />
+                            <uc:OcrTextInfo Region="56, 406, 36, 8" Text="conditions:" />
+                            <uc:OcrTextInfo Region="23, 427, 6, 8" Text="It" />
+                            <uc:OcrTextInfo Region="29, 428, 6, 7" Text="is" />
+                            <uc:OcrTextInfo Region="35, 428, 39, 7" Text="recommended" />
+                            <uc:OcrTextInfo Region="74, 428, 6, 6" Text="to" />
+                            <uc:OcrTextInfo Region="80, 428, 17, 8" Text="make" />
+                            <uc:OcrTextInfo Region="97, 428, 27, 8" Text="payments" />
+                            <uc:OcrTextInfo Region="124, 427, 18, 8" Text="online" />
+                            <uc:OcrTextInfo Region="142, 427, 10, 8" Text="via" />
+                            <uc:OcrTextInfo Region="151, 428, 14, 7" Text="your" />
+                            <uc:OcrTextInfo Region="164, 428, 24, 8" Text="member" />
+                            <uc:OcrTextInfo Region="188, 428, 16, 8" Text="panel" />
+                            <uc:OcrTextInfo Region="204, 428, 20, 8" Text="against" />
+                            <uc:OcrTextInfo Region="224, 428, 5, 6" Text="a" />
+                            <uc:OcrTextInfo Region="228, 427, 23, 9" Text="specific" />
+                            <uc:OcrTextInfo Region="251, 427, 22, 8" Text="invoice." />
+                            <uc:OcrTextInfo Region="273, 427, 14, 8" Text="This" />
+                            <uc:OcrTextInfo Region="286, 427, 6, 8" Text="is" />
+                            <uc:OcrTextInfo Region="292, 427, 10, 8" Text="the" />
+                            <uc:OcrTextInfo Region="302, 427, 24, 9" Text="quickest" />
+                            <uc:OcrTextInfo Region="326, 428, 12, 7" Text="way" />
+                            <uc:OcrTextInfo Region="338, 428, 7, 6" Text="to" />
+                            <uc:OcrTextInfo Region="344, 428, 20, 6" Text="ensure" />
+                            <uc:OcrTextInfo Region="23, 436, 12, 7" Text="that" />
+                            <uc:OcrTextInfo Region="35, 436, 14, 7" Text="your" />
+                            <uc:OcrTextInfo Region="48, 436, 22, 7" Text="account" />
+                            <uc:OcrTextInfo Region="70, 436, 22, 7" Text="reflects" />
+                            <uc:OcrTextInfo Region="92, 436, 10, 7" Text="the" />
+                            <uc:OcrTextInfo Region="101, 436, 28, 8" Text="payments" />
+                            <uc:OcrTextInfo Region="128, 435, 36, 8" Text="immediately." />
+                            <uc:OcrTextInfo Region="164, 435, 14, 8" Text="This" />
+                            <uc:OcrTextInfo Region="178, 435, 12, 8" Text="will" />
+                            <uc:OcrTextInfo Region="189, 436, 19, 6" Text="ensure" />
+                            <uc:OcrTextInfo Region="208, 436, 12, 7" Text="that" />
+                            <uc:OcrTextInfo Region="219, 435, 16, 8" Text="there" />
+                            <uc:OcrTextInfo Region="234, 436, 6, 7" Text="is" />
+                            <uc:OcrTextInfo Region="240, 436, 8, 6" Text="no" />
+                            <uc:OcrTextInfo Region="249, 436, 20, 7" Text="service" />
+                            <uc:OcrTextInfo Region="268, 436, 30, 8" Text="disruption." />
+                            <uc:OcrTextInfo Region="24, 448, 27, 8" Text="Payments" />
+                            <uc:OcrTextInfo Region="50, 448, 10, 6" Text="are" />
+                            <uc:OcrTextInfo Region="60, 448, 25, 8" Text="accepted" />
+                            <uc:OcrTextInfo Region="85, 447, 22, 9" Text="through" />
+                            <uc:OcrTextInfo Region="107, 447, 19, 8" Text="Credit" />
+                            <uc:OcrTextInfo Region="126, 447, 16, 8" Text="Card," />
+                            <uc:OcrTextInfo Region="142, 448, 22, 7" Text="intemet" />
+                            <uc:OcrTextInfo Region="163, 447, 25, 9" Text="banking," />
+                            <uc:OcrTextInfo Region="188, 447, 18, 8" Text="online" />
+                            <uc:OcrTextInfo Region="205, 448, 24, 7" Text="transfer." />
+                            <uc:OcrTextInfo Region="23, 459, 12, 8" Text="For" />
+                            <uc:OcrTextInfo Region="34, 460, 6, 6" Text="a" />
+                            <uc:OcrTextInfo Region="39, 460, 12, 6" Text="new" />
+                            <uc:OcrTextInfo Region="51, 459, 22, 8" Text="service," />
+                            <uc:OcrTextInfo Region="73, 459, 21, 8" Text="invoice" />
+                            <uc:OcrTextInfo Region="94, 460, 11, 6" Text="can" />
+                            <uc:OcrTextInfo Region="104, 459, 8, 8" Text="be" />
+                            <uc:OcrTextInfo Region="112, 459, 27, 8" Text="cancelled" />
+                            <uc:OcrTextInfo Region="139, 459, 18, 8" Text="within" />
+                            <uc:OcrTextInfo Region="158, 459, 8, 8" Text="45" />
+                            <uc:OcrTextInfo Region="166, 460, 14, 8" Text="days" />
+                            <uc:OcrTextInfo Region="179, 459, 11, 7" Text="and" />
+                            <uc:OcrTextInfo Region="190, 459, 6, 8" Text="is" />
+                            <uc:OcrTextInfo Region="196, 459, 21, 8" Text="eligible" />
+                            <uc:OcrTextInfo Region="217, 459, 10, 7" Text="for" />
+                            <uc:OcrTextInfo Region="227, 459, 18, 8" Text="refund" />
+                            <uc:OcrTextInfo Region="246, 459, 6, 7" Text="if" />
+                            <uc:OcrTextInfo Region="252, 459, 20, 8" Text="service" />
+                            <uc:OcrTextInfo Region="272, 459, 6, 8" Text="is" />
+                            <uc:OcrTextInfo Region="278, 459, 23, 8" Text="covered" />
+                            <uc:OcrTextInfo Region="300, 460, 17, 7" Text="under" />
+                            <uc:OcrTextInfo Region="317, 460, 20, 7" Text="money" />
+                            <uc:OcrTextInfo Region="336, 459, 15, 8" Text="back" />
+                            <uc:OcrTextInfo Region="24, 468, 28, 8" Text="guarantee." />
+                            <uc:OcrTextInfo Region="52, 467, 12, 8" Text="For" />
+                            <uc:OcrTextInfo Region="63, 468, 16, 7" Text="more" />
+                            <uc:OcrTextInfo Region="78, 467, 19, 8" Text="details" />
+                            <uc:OcrTextInfo Region="96, 467, 16, 8" Text="refer" />
+                            <uc:OcrTextInfo Region="111, 467, 12, 7" Text="link" />
+                            <uc:OcrTextInfo Region="121, 467, 152, 9" Text="htps://www.znetive.com/legal/acceptable-user-policy/." />
+                            <uc:OcrTextInfo Region="273, 467, 27, 8" Text="However," />
+                            <uc:OcrTextInfo Region="300, 468, 8, 6" Text="an" />
+                            <uc:OcrTextInfo Region="308, 468, 21, 6" Text="invoice" />
+                            <uc:OcrTextInfo Region="328, 468, 10, 6" Text="for" />
+                            <uc:OcrTextInfo Region="338, 467, 22, 8" Text="renewal" />
+                            <uc:OcrTextInfo Region="360, 467, 8, 8" Text="of" />
+                            <uc:OcrTextInfo Region="23, 477, 5, 6" Text="a" />
+                            <uc:OcrTextInfo Region="28, 476, 21, 7" Text="service" />
+                            <uc:OcrTextInfo Region="48, 476, 18, 8" Text="would" />
+                            <uc:OcrTextInfo Region="66, 477, 10, 6" Text="not" />
+                            <uc:OcrTextInfo Region="76, 476, 8, 7" Text="be" />
+                            <uc:OcrTextInfo Region="84, 476, 26, 8" Text="cancelled" />
+                            <uc:OcrTextInfo Region="110, 476, 12, 7" Text="and" />
+                            <uc:OcrTextInfo Region="121, 476, 14, 7" Text="shall" />
+                            <uc:OcrTextInfo Region="134, 476, 11, 7" Text="not" />
+                            <uc:OcrTextInfo Region="145, 476, 8, 7" Text="be" />
+                            <uc:OcrTextInfo Region="152, 476, 22, 8" Text="eligible" />
+                            <uc:OcrTextInfo Region="174, 476, 10, 7" Text="for" />
+                            <uc:OcrTextInfo Region="184, 476, 20, 8" Text="refund." />
+                            <uc:OcrTextInfo Region="24, 488, 9, 8" Text="By" />
+                            <uc:OcrTextInfo Region="32, 488, 20, 8" Text="paying" />
+                            <uc:OcrTextInfo Region="52, 488, 10, 8" Text="the" />
+                            <uc:OcrTextInfo Region="62, 488, 23, 8" Text="invoice," />
+                            <uc:OcrTextInfo Region="85, 488, 56, 8" Text="Customer/Subscriber" />
+                            <uc:OcrTextInfo Region="141, 488, 39, 7" Text="acknowledses" />
+                            <uc:OcrTextInfo Region="180, 488, 12, 7" Text="that" />
+                            <uc:OcrTextInfo Region="191, 488, 10, 8" Text="the" />
+                            <uc:OcrTextInfo Region="201, 488, 18, 7" Text="nature" />
+                            <uc:OcrTextInfo Region="219, 488, 8, 8" Text="of" />
+                            <uc:OcrTextInfo Region="226, 488, 10, 7" Text="the" />
+                            <uc:OcrTextInfo Region="236, 488, 20, 8" Text="service" />
+                            <uc:OcrTextInfo Region="257, 488, 28, 9" Text="purchased" />
+                            <uc:OcrTextInfo Region="285, 488, 11, 8" Text="and" />
+                            <uc:OcrTextInfo Region="296, 488, 10, 7" Text="the" />
+                            <uc:OcrTextInfo Region="306, 488, 14, 7" Text="rates" />
+                            <uc:OcrTextInfo Region="319, 488, 12, 7" Text="and" />
+                            <uc:OcrTextInfo Region="331, 488, 21, 8" Text="charges" />
+                            <uc:OcrTextInfo Region="352, 488, 14, 7" Text="have" />
+                            <uc:OcrTextInfo Region="23, 496, 15, 7" Text="been" />
+                            <uc:OcrTextInfo Region="37, 496, 41, 8" Text="communicated" />
+                            <uc:OcrTextInfo Region="78, 496, 7, 7" Text="to" />
+                            <uc:OcrTextInfo Region="84, 496, 13, 8" Text="him" />
+                            <uc:OcrTextInfo Region="97, 496, 11, 8" Text="and" />
+                            <uc:OcrTextInfo Region="108, 496, 10, 8" Text="the" />
+                            <uc:OcrTextInfo Region="118, 497, 16, 6" Text="same" />
+                            <uc:OcrTextInfo Region="132, 497, 10, 6" Text="are" />
+                            <uc:OcrTextInfo Region="142, 496, 25, 8" Text="accepted" />
+                            <uc:OcrTextInfo Region="167, 496, 8, 9" Text="by" />
+                            <uc:OcrTextInfo Region="175, 496, 10, 8" Text="the" />
+                            <uc:OcrTextInfo Region="185, 496, 30, 8" Text="Customer." />
+                            <uc:OcrTextInfo Region="214, 496, 56, 8" Text="Customer/Subscriber" />
+                            <uc:OcrTextInfo Region="271, 496, 7, 8" Text="is" />
+                            <uc:OcrTextInfo Region="277, 497, 18, 6" Text="aware" />
+                            <uc:OcrTextInfo Region="294, 496, 12, 6" Text="that" />
+                            <uc:OcrTextInfo Region="306, 496, 10, 8" Text="the" />
+                            <uc:OcrTextInfo Region="316, 497, 28, 8" Text="company," />
+                            <uc:OcrTextInfo Region="343, 496, 7, 7" Text="at" />
+                            <uc:OcrTextInfo Region="349, 496, 9, 7" Text="its" />
+                            <uc:OcrTextInfo Region="357, 496, 13, 8" Text="sole" />
+                          </scg:List>
+                        </uc:CVCache.OcrTexts>
+                      </uc:CVCache>
+                    </scg:List>
+                  </uc:CvCacheContainer.Caches>
+                </uc:CvCacheContainer>
+              </p:CVScope.DesignTimeCacheContainer>
+              <p:CVScope.OCREngine>
+                <ActivityFunc x:TypeArguments="sd:Image, scg:IEnumerable(scg:KeyValuePair(sd:Rectangle, x:String))">
+                  <ActivityFunc.Argument>
+                    <DelegateInArgument x:TypeArguments="sd:Image" Name="Image" />
+                  </ActivityFunc.Argument>
+                  <p1:UiPathScreenOCR Endpoint="{x:Null}" Output="{x:Null}" Text="{x:Null}" ApiKey="+cYV5+5YOnffkNC+nkYiuTYA0GPflSeAFnq1M7by6xPPqUVuczlTRIyKqRzEWQEzpIIy9MFLPWtZWt9zw1ZN6w==" ComputeSkewAngle="False" ExtractWords="True" sap:VirtualizedContainerService.HintSize="200,22" sap2010:WorkflowViewState.IdRef="UiPathScreenOCR_1" Image="[Image]" Language="en" Profile="Screen" Scale="1" />
+                </ActivityFunc>
+              </p:CVScope.OCREngine>
+              <p:CVScope.Target>
+                <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Id="80a79587-0be2-49de-9ac4-db30fe7a2b9e" InformativeScreenshot="f53ced606e279943c5ad3251c547695e" Selector="&lt;wnd app='acrord32.exe' cls='AcrobatSDIWindow' title='Znett_Invoice_INVG_20-21_9933.pdf - Adobe Reader' /&gt;&lt;wnd cls='AVL_AVView' title='AVPageView' /&gt;&lt;ctrl name='ZNet Technologies Private Limited   D-10/52, Chitrakoot, Vaishal*' role='text' /&gt;" WaitForReady="INTERACTIVE">
+                  <ui:Target.TimeoutMS>
+                    <InArgument x:TypeArguments="x:Int32" />
+                  </ui:Target.TimeoutMS>
+                </ui:Target>
+              </p:CVScope.Target>
+              <p:CVScope.UseLocalServer>
+                <InArgument x:TypeArguments="x:Boolean" />
+              </p:CVScope.UseLocalServer>
+              <sap:WorkflowViewStateService.ViewState>
+                <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                  <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                  <x:Boolean x:Key="IsPinned">False</x:Boolean>
+                </scg:Dictionary>
+              </sap:WorkflowViewStateService.ViewState>
+            </p:CVScope>
+          </Sequence>
+        </ActivityAction>
+      </ui:ForEach.Body>
+    </ui:ForEach>
+    <ui:WriteRange AddHeaders="True" DataTable="[DT]" DisplayName="Write Range" sap:VirtualizedContainerService.HintSize="512.666666666667,114.666666666667" sap2010:WorkflowViewState.IdRef="WriteRange_1" SheetName="Sheet1" WorkbookPath="invoice.xlsx">
+      <ui:WriteRange.StartingCell>
+        <InArgument x:TypeArguments="x:String">
+          <Literal x:TypeArguments="x:String" Value="" />
+        </InArgument>
+      </ui:WriteRange.StartingCell>
+    </ui:WriteRange>
+  </Sequence>
+</Activity>

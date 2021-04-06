@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>BEML</title>
+    <style>
+        h1 {
+        font-size: 40px;
+        color: Blue;
+        text-align: center;
+        }
+
+        h2{
+        font-size: 30px;
+        }
+        div.td {
+        font-size: 30px;
+        text-align: center;
+        }
+    </style>
+</head>
+<body>
+<h1> BHARATH EARTH MOVERS LIMITED </h1>
+
+    <h2>
+        Data Entry Form
+    </h2>
+  <div>
+         <form action="" METHOD="post">
+<table>
+
+<tr>
+              <td>
+                  Reference Number : </td>
+              <td>
+                <input type="text" name="Reference Number" required><br>
+              </td>
+
+
+              <td>
+                  Date : </td>
+              <td>
+                <input id="today" type="date" name="Date">
+<script>
+document.getElementById('today').value = moment().format('YYYY-MM-DD');
+</script>
+              </td>
+        </tr>
+
+        <tr>
+              <td>
+                  Staff Number : </td>
+              <td>
+                <input type="text" name="Staff Number" required><br>
+              </td>
+
+
+              <td>
+                  Staff Name : </td>
+              <td>
+                <input type="text" name="Staff Name" required><br>
+              </td>
+        </tr>
+        <tr>
+              <td>
+                  Patient Name : </td>
+              <td>
+                <input type="text" name="Patient Name" required><br>
+              </td>
+
+              <td>
+                  Patient Relationship : </td>
+              <td>
+                <input type="text" name="Patient Relationship" required><br>
+              </td>
+        </tr>
+
+        <tr>
+              <td>
+                 <label for="Hospital Name">Hospital Name:</label>
+              </td>
+            <td>
+  <select name="Hospital Name" id="Hospital Name">
+    <option value="Columbia Hospital">Columbia Hospital</option>
+    <option value="Fortis Hospital">Fortis Hospital</option>
+    <option value="Jayadev Hospital">Jayadev Hospital</option>
+    <option value="Manipal Hospital">Manipal Hospital</option>
+
+  </select>
+<br>                </td>
+
+               <td>
+                  Hospital address : </td>
+              <td>
+                <input type="text" name="Hospital Address" required><br>
+              </td>
+        </tr>
+<tr>
+        <td>
+                  Reason for Hospitality : </td>
+              <td>
+                <input type="text" name="Reason for Hospitality" required><br>
+              </td>
+
+
+        <td>
+                  Siganture : </td>
+              <td>
+                <input type="file" name="signature" id="get-files" multiple />
+
+
+<script>
+var inp = document.getElementById("get-files");
+// Access and handle the files
+
+for (i = 0; i < inp.files.length; i++) {
+    let file = inp.files[i];
+    // do things with file
+}
+</script>
+              </td>
+        </tr>
+
+    <tr>
+<td>
+                  Patient Photo : </td>
+              <td>
+                <input type="file" name="Patient_Photo" id="getfiles" multiple />
+
+
+<script>
+var inp = document.getElementById("get-files");
+// Access and handle the files
+
+for (i = 0; i < inp.files.length; i++) {
+    let file = inp.files[i];
+    // do things with file
+}
+</script>
+              </td>
+        </tr>
+<tr>
+     <td>
+       <input type="submit" value="Submit"></td>
+      </tr>
+
+</table>
+         </form>
+      </div>
+</body>
+</html>

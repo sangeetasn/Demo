@@ -1,0 +1,42 @@
+                                                Date: 20/06/2020 : 02:24PM
+
+                         INPATIENT DETAILED BILL OF SUPPLY 
+Bill No.: AMH20ICR0000341                              Payor: BEMS E2Aftiftt S000114
+
+                                                  Auth. Code: 27302
+
+Name     : MR HAARNANTH REDDY C              Hospital No     : MMH000274693
+Age/Sex 1 82 years/Male                      Inpatient No    : 10000061646
+
+Si. Particulars                                                  Amount(Rs.)
+Ref. No. Order Item    Qty      Price                               Net
+
+                            Sub Total                               4330.00   
+14 Procedures SAC:999321
+     [PAEA009] ORBS - BLOOD SUGAR
+                            21    50.0071                           550.00
+
+                            Sub Total                               550.01
+15 Physiotheraphy SAC:999314
+     [PPHY008] BREATHINGEXCERCISES
+                            3     220.00                            330.00
+
+                            Sub Total                               330.00
+16 Medicines SAC:999312                                                       
+     ICC BD INSULIN SYR U40IU 31G
+                            1     9.00                               9.00
+     3M PRE-OPERATIVE SHOWER KIT WITH CLIPPER BLADE (CHLORHEXIDINE GLUCONATE 4% 
+     W/V), 3M INDIA LIMITED
+                            1   1050.00                             1050.00
+     ABDOMINAL BELT TUMMY TRIMMER (L) (REF #403CA2), TYNOR
+                            1   655.00                             655.00
+     AEQUIMENTIN 2.2 CM VIAL INS (AMOXYCILLIN 1000 MG+CLAVULANIC ACTD 200 MG        ) 
+     AEQUITAS
+
+
+
+
+     Packed: 8, Returned :2
+                Charged :   6     237.50                            825.00
+     AEQUIMOL 100 ML INFUSION (PARACE1AMOL 3 ,tW/V) AEOUITAS
+

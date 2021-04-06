@@ -1,0 +1,151 @@
+﻿Execution Started in  03/13/2021 12:35:00
+Opening Config File Reading all the data
+Execution Started in  03/13/2021 12:36:00
+Opening Config File Reading all the data
+Execution Started in  03/13/2021 13:18:12
+Opening Config File Reading all the data
+Execution Started in  03/13/2021 13:23:19
+Opening Config File Reading all the data
+Execution Started in  03/13/2021 13:28:34
+Opening Config File Reading all the data
+Execution Started in  03/13/2021 15:02:13
+Opening Config File Reading all the data
+Execution Started in  03/13/2021 15:05:28
+Opening Config File Reading all the data
+Executing Python script for Detailled Bill
+Executing Python script for Detailled Bill
+Reading detailed bill csv file and pushing into the database
+Executing Python script for Detailled Bill
+Reading detailed bill csv file and pushing into the database
+Executing Python script for Detailled Bill
+Reading detailed bill csv file and pushing into the database
+Executing Python script for Detailled Bill
+Reading detailed bill csv file and pushing into the database
+Executing Python script for Detailled Bill
+Reading detailed bill csv file and pushing into the database
+Executing Python script for Detailled Bill
+Reading detailed bill csv file and pushing into the database
+Executing Python script for Detailled Bill
+Reading detailed bill csv file and pushing into the database
+Executing Python script for Detailled Bill
+Reading detailed bill csv file and pushing into the database
+Executing Python script for Detailled Bill
+Reading detailed bill csv file and pushing into the database
+Executing Python script for Detailled Bill
+Reading detailed bill csv file and pushing into the database
+Reading invalid sheet
+Reading discounted sheet
+Reading tarrif  sheet
+Reading IP Consultations
+Reading Investigation sheet
+Reading lab sheet
+Reading procedure sheet
+Reading Surgeries sheet
+Execution Started in  03/15/2021 12:02:01
+Opening Config File Reading all the data
+Reading invalid sheet
+Reading discounted sheet
+Reading tarrif  sheet
+Reading IP Consultations
+Reading Investigation sheet
+Reading lab sheet
+Reading procedure sheet
+Reading Surgeries sheet
+Execution Started in  03/15/2021 12:56:56
+Opening Config File Reading all the data
+Reading invalid sheet
+Reading discounted sheet
+Reading tarrif  sheet
+Reading IP Consultations
+Reading Investigation sheet
+Reading lab sheet
+Reading procedure sheet
+Reading Surgeries sheet
+Execution Started in  03/15/2021 13:45:59
+Opening Config File Reading all the data
+Reading invalid sheet
+Reading discounted sheet
+Reading tarrif  sheet
+Reading IP Consultations
+Reading Investigation sheet
+Reading lab sheet
+Reading procedure sheet
+Reading Surgeries sheet
+Execution Started in  03/15/2021 14:37:33
+Opening Config File Reading all the data
+Execution Started in  03/15/2021 14:39:42
+Opening Config File Reading all the data
+Reading invalid sheet
+Reading discounted sheet
+Reading tarrif  sheet
+Reading IP Consultations
+Reading Investigation sheet
+Reading lab sheet
+Reading procedure sheet
+Reading Surgeries sheet
+Execution Started in  03/15/2021 14:46:46
+Opening Config File Reading all the data
+Reading invalid sheet
+Reading discounted sheet
+Reading tarrif  sheet
+Reading IP Consultations
+Reading Investigation sheet
+Reading lab sheet
+Reading procedure sheet
+Reading Surgeries sheet
+Execution Started in  03/15/2021 14:57:14
+Opening Config File Reading all the data
+Reading invalid sheet
+Reading discounted sheet
+Reading tarrif  sheet
+Reading IP Consultations
+Reading Investigation sheet
+Reading lab sheet
+Reading procedure sheet
+Reading Surgeries sheet
+Execution Started in  03/15/2021 15:34:37
+Opening Config File Reading all the data
+Execution Started in  03/16/2021 11:22:34
+Opening Config File Reading all the data
+Reading invalid sheet
+Reading discounted sheet
+Reading tarrif  sheet
+Reading IP Consultations
+Reading Investigation sheet
+Reading lab sheet
+Reading procedure sheet
+Reading Surgeries sheet
+Execution Started in  03/16/2021 12:57:13
+Opening Config File Reading all the data
+Reading invalid sheet
+Reading discounted sheet
+Reading tarrif  sheet
+Reading IP Consultations
+Reading Investigation sheet
+Reading lab sheet
+Reading procedure sheet
+Reading Surgeries sheet
+Execution Started in  03/16/2021 15:53:23
+Opening Config File Reading all the data
+Reading invalid sheet
+Reading discounted sheet
+Reading tarrif  sheet
+Reading IP Consultations
+Reading Investigation sheet
+Reading lab sheet
+Reading procedure sheet
+Reading Surgeries sheet
+Execution Started in  03/16/2021 16:34:40
+Opening Config File Reading all the data
+Execution Started in  03/16/2021 16:47:54
+Opening Config File Reading all the data
+Execution Started in  03/17/2021 18:28:10
+Opening Config File Reading all the data
+Reading invalid sheet
+Reading discounted sheet
+Reading tarrif  sheet
+Reading IP Consultations
+Reading Investigation sheet
+Reading lab sheet
+Reading procedure sheet
+Reading Surgeries sheet

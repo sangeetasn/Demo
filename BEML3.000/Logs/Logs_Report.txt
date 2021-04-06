@@ -1,0 +1,249 @@
+﻿Execution Started in  02/18/2021 12:07:48
+Opening Config File Reading all the data
+Retrieving data from database and writing into the Referal letter02/18/2021 12:07:53
+Executing Python script for Detailled Bill
+Reading detailed bill csv file and pushing into the database
+Successfully inserted all the rows into the databse
+Execution Started in  02/18/2021 12:43:44
+Opening Config File Reading all the data
+Retrieving data from database and writing into the Referal letter02/18/2021 12:43:48
+Executing Python script for Detailled Bill
+Reading detailed bill csv file and pushing into the database
+Successfully inserted all the rows into the databse
+Execution Started in  02/18/2021 12:45:53
+Opening Config File Reading all the data
+Retrieving data from database and writing into the Referal letter02/18/2021 12:45:57
+Executing Python script for Detailled Bill
+Reading detailed bill csv file and pushing into the database
+Successfully inserted all the rows into the databse
+Execution Started in  02/18/2021 14:25:15
+Opening Config File Reading all the data
+Retrieving data from database and writing into the Referal letter02/18/2021 14:25:19
+Execution Started in  02/18/2021 15:47:53
+Opening Config File Reading all the data
+Execution Started in  02/18/2021 15:55:55
+Opening Config File Reading all the data
+Retrieving data from database and writing into the Referal letter02/18/2021 15:56:12
+Opening Referal letter and writing the data02/18/2021 15:56:13
+Sending referal letter to the concerned hospital02/18/2021 15:58:43
+Executing Python script for Detailled Bill
+Reading detailed bill csv file and pushing into the database
+Successfully inserted all the rows into the databse
+Execution Started in  02/18/2021 16:04:55
+Opening Config File Reading all the data
+Reading invalid sheet
+Reading discounted sheet
+Reading tarrif sheet sheet
+Reading lab sheet
+calculating exclude sumt
+Updating exclude sum in patient details
+calculated net amount 
+updating net amount02/18/2021 16:05:32
+calculating discounted 02/18/2021 16:05:32
+updating  discounted value
+cap sum calculated: 02/18/2021 16:05:32
+updating  capsum: 02/18/2021 16:05:33
+calculating invalid sum: 02/18/2021 16:05:33
+update invalid sum : 02/18/2021 16:05:33
+FInal beml share: is updted 02/18/2021 16:05:34
+Reading invalid sheet
+Reading discounted sheet
+Reading tarrif sheet sheet
+Reading lab sheet
+calculating exclude sumt
+Updating exclude sum in patient details
+calculated net amount 
+updating net amount02/18/2021 16:06:31
+calculating discounted 02/18/2021 16:06:31
+updating  discounted value
+cap sum calculated: 02/18/2021 16:06:31
+updating  capsum: 02/18/2021 16:06:31
+calculating invalid sum: 02/18/2021 16:06:31
+update invalid sum : 02/18/2021 16:06:31
+FInal beml share: is updted 02/18/2021 16:06:31
+Execution Started in  02/18/2021 16:09:01
+Opening Config File Reading all the data
+Reading invalid sheet
+Reading discounted sheet
+Reading tarrif sheet sheet
+Reading lab sheet
+Execution Started in  02/18/2021 17:24:29
+Opening Config File Reading all the data
+Executing Python script for Detailled Bill
+Reading detailed bill csv file and pushing into the database
+Successfully inserted all the rows into the databse
+Reading invalid sheet
+Reading discounted sheet
+Reading tarrif sheet sheet
+Reading lab sheet
+calculating exclude sumt
+Updating exclude sum in patient details
+calculated net amount 
+updating net amount02/18/2021 17:25:38
+calculating discounted 02/18/2021 17:25:38
+updating  discounted value
+cap sum calculated: 02/18/2021 17:25:38
+updating  capsum: 02/18/2021 17:25:38
+calculating invalid sum: 02/18/2021 17:25:38
+update invalid sum : 02/18/2021 17:25:39
+FInal beml share: is updted 02/18/2021 17:25:39
+Execution Started in  02/18/2021 17:41:54
+Opening Config File Reading all the data
+Executing Python script for Detailled Bill
+Reading detailed bill csv file and pushing into the database
+Successfully inserted all the rows into the databse
+Reading invalid sheet
+Reading discounted sheet
+Reading tarrif sheet sheet
+Reading lab sheet
+calculating exclude sumt
+Updating exclude sum in patient details
+calculated net amount 
+updating net amount02/18/2021 17:45:31
+calculating discounted 02/18/2021 17:45:31
+updating  discounted value
+cap sum calculated: 02/18/2021 17:45:31
+updating  capsum: 02/18/2021 17:45:31
+calculating invalid sum: 02/18/2021 17:45:31
+update invalid sum : 02/18/2021 17:45:32
+FInal beml share: is updted 02/18/2021 17:45:32
+Execution Started in  02/19/2021 10:44:09
+Opening Config File Reading all the data
+Executing Python script for Detailled Bill
+Reading detailed bill csv file and pushing into the database
+Successfully inserted all the rows into the databse
+Reading invalid sheet
+Reading discounted sheet
+Reading tarrif sheet sheet
+Reading lab sheet
+calculating exclude sumt
+Updating exclude sum in patient details
+calculated net amount 
+updating net amount02/19/2021 10:47:58
+calculating discounted 02/19/2021 10:47:58
+updating  discounted value
+cap sum calculated: 02/19/2021 10:47:58
+updating  capsum: 02/19/2021 10:47:59
+calculating invalid sum: 02/19/2021 10:47:59
+update invalid sum : 02/19/2021 10:47:59
+FInal beml share: is updted 02/19/2021 10:48:00
+Execution Started in  02/19/2021 17:02:18
+Opening Config File Reading all the data
+Retrieving data from database and writing into the Referal letter02/19/2021 17:02:30
+Opening Referal letter and writing the data02/19/2021 17:02:30
+Sending referal letter to the concerned hospital02/19/2021 17:04:11
+Executing Python script for Detailled Bill
+Reading detailed bill csv file and pushing into the database
+Successfully inserted all the rows into the databse
+Reading invalid sheet
+Reading discounted sheet
+Reading tarrif sheet sheet
+Reading lab sheet
+calculating exclude sumt
+Updating exclude sum in patient details
+calculated net amount 
+updating net amount02/19/2021 17:07:20
+calculating discounted 02/19/2021 17:07:20
+updating  discounted value
+cap sum calculated: 02/19/2021 17:07:21
+updating  capsum: 02/19/2021 17:07:21
+calculating invalid sum: 02/19/2021 17:07:21
+update invalid sum : 02/19/2021 17:07:21
+FInal beml share: is updted 02/19/2021 17:07:21
+Execution Started in  02/20/2021 10:12:58
+Opening Config File Reading all the data
+Retrieving data from database and writing into the Referal letter02/20/2021 10:13:13
+Opening Referal letter and writing the data02/20/2021 10:13:13
+Sending referal letter to the concerned hospital02/20/2021 10:15:43
+Executing Python script for Detailled Bill
+Reading detailed bill csv file and pushing into the database
+Successfully inserted all the rows into the databse
+Reading invalid sheet
+Reading discounted sheet
+Reading tarrif sheet sheet
+Reading lab sheet
+calculating exclude sumt
+Updating exclude sum in patient details
+calculated net amount 
+updating net amount02/20/2021 10:20:08
+calculating discounted 02/20/2021 10:20:08
+updating  discounted value
+cap sum calculated: 02/20/2021 10:20:09
+updating  capsum: 02/20/2021 10:20:09
+calculating invalid sum: 02/20/2021 10:20:09
+update invalid sum : 02/20/2021 10:20:09
+FInal beml share: is updted 02/20/2021 10:20:09
+Execution Started in  02/20/2021 10:29:31
+Opening Config File Reading all the data
+Executing Python script for Detailled Bill
+Reading detailed bill csv file and pushing into the database
+Successfully inserted all the rows into the databse
+Reading invalid sheet
+Reading discounted sheet
+Reading tarrif sheet sheet
+Reading lab sheet
+calculating exclude sumt
+Updating exclude sum in patient details
+calculated net amount 
+updating net amount02/20/2021 10:30:45
+calculating discounted 02/20/2021 10:30:45
+updating  discounted value
+cap sum calculated: 02/20/2021 10:30:45
+updating  capsum: 02/20/2021 10:30:45
+calculating invalid sum: 02/20/2021 10:30:45
+update invalid sum : 02/20/2021 10:30:45
+FInal beml share: is updted 02/20/2021 10:30:46
+Executing Python script for Detailled Bill
+Reading detailed bill csv file and pushing into the database
+Successfully inserted all the rows into the databse
+Reading invalid sheet
+Reading discounted sheet
+Reading tarrif sheet sheet
+Reading lab sheet
+calculating exclude sumt
+Updating exclude sum in patient details
+calculated net amount 
+updating net amount02/20/2021 10:31:55
+calculating discounted 02/20/2021 10:31:55
+updating  discounted value
+cap sum calculated: 02/20/2021 10:31:56
+updating  capsum: 02/20/2021 10:31:56
+calculating invalid sum: 02/20/2021 10:31:56
+update invalid sum : 02/20/2021 10:31:57
+FInal beml share: is updted 02/20/2021 10:31:57
+Execution Started in  02/20/2021 10:40:14
+Opening Config File Reading all the data
+Retrieving data from database and writing into the Referal letter02/20/2021 10:40:23
+Execution Started in  02/20/2021 10:43:26
+Opening Config File Reading all the data
+Retrieving data from database and writing into the Referal letter02/20/2021 10:43:32
+Opening Referal letter and writing the data02/20/2021 10:43:32
+Execution Started in  02/20/2021 10:43:58
+Opening Config File Reading all the data
+Retrieving data from database and writing into the Referal letter02/20/2021 10:44:04
+Opening Referal letter and writing the data02/20/2021 10:44:04
+Sending referal letter to the concerned hospital02/20/2021 10:46:00
+Executing Python script for Detailled Bill
+Reading detailed bill csv file and pushing into the database
+Successfully inserted all the rows into the databse
+Reading invalid sheet
+Reading discounted sheet
+Reading tarrif sheet sheet
+Reading lab sheet
+calculating exclude sumt
+Updating exclude sum in patient details
+calculated net amount 
+updating net amount02/20/2021 10:47:11
+calculating discounted 02/20/2021 10:47:11
+updating  discounted value
+cap sum calculated: 02/20/2021 10:47:11
+updating  capsum: 02/20/2021 10:47:12
+calculating invalid sum: 02/20/2021 10:47:12
+update invalid sum : 02/20/2021 10:47:12
+FInal beml share: is updted 02/20/2021 10:47:12
+Retrieving data from database and writing into the Referal letter02/20/2021 10:47:15
+Opening Referal letter and writing the data02/20/2021 10:47:15
+Execution Started in  03/01/2021 18:36:40
+Opening Config File Reading all the data
+Execution Started in  03/01/2021 19:06:41
+Opening Config File Reading all the data

@@ -1,0 +1,47 @@
+﻿                                                 Date: 20/06/2020 : 02:24PM
+
+                         INPATIENT DETAILED BILL OF SUPPLY 
+Bill No.: 1.241120ICR0000341                            Payor: BEML 7ikideadrilSOUD44-
+
+                                                  Auth. Code; 27302
+Name.    : MR HANUMA1VTH REDDY G              Hospital  No    : MMH000274693
+Age/Sex : 81 years/Male                       InPatient No    : 10000061646
+Address : 224 SAMYUKTHA 3RD MAIN              Admission Date  : 16/06/2020
+          JUDICIAL LAYOUT, TALGATPURA 
+          BANGALORE,KARNATAKA,INDIA, 
+          560062                              Admission Time  : 08:30AM
+Ward     : 03 B WING MMH                      Discharge Date  : 20/06/2020 
+ird      : 031RA/sRmrsoRcIAL MMH              Discharge Time  1 0.2t57PM
+         : GENERAL SURGERY MMH                No. of Days     : 5
+boctor : DR ASHOK G N
+GSTIN : 29AAGCM5933R2Z7(                      PAN No          : AAGCM5933R
+
+SI. Particulars                                                  Amoune(Rs.)
+Ref. No. Order Item      Qty     Price                                  Net
+
+2 Procedure
+     [PAD015] Corona virus (Covid 19)
+                            I    4500.00                            4500.00 
+
+                            Sub Total                               4500.00
+2 Bed Charges SAC:999312
+     [TPBEDC9] Ward Bed Charges-SSP, MMIIO3BW 318A
+                            5    925.00                             4625.00 
+
+                            Sub Total                               4625.00
+3 Service Nursing Charges SAC:999324 
+14   [IPBEDC17] Ward Service Charges-SSP
+                            5    375.00                             1875.00
+
+                            Sub Total                               1875.00
+4 Admission Charges SAC:999311 
+     [SPBEDC2] Admission Charges
+                            1    300.00                             300.00
+
+                            Sub Total                               300.00 
+5 Theatre Charges SAC:999311
+     [ATHE001] THEATRE CAT-A
+                            1    3300.0C                            3300.00
+
+                                                                    "
+

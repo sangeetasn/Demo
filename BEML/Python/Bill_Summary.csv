@@ -1,0 +1,33 @@
+sl No, PARTICULARS, Amount
+1,Procedure X,4500.00
+2,Bed Charges SAC: 999311,4625.00
+3,Service Nursing Charges SAC:999314,1875.00
+4,Admission Charges SAC:999311,300.00
+5,Theatre Charges SAC:999311,3300.00
+6,Surgeon Fee SAC: 999311,21000.00
+7,Anaesthetists Fees SAC:999311,5250.00
+8,SURGICAL SUPPORT FEE SAC:999311,6300.00
+9,Consultation IP SAC:999311 - DR,1500.00
+10,Consultation IP SAC:999311 - DR,3240.00
+11,Consultation IP SAC:999311 - DR,1870.00
+12,Consultation IP SAC:999311 - DR R,1000.00
+13,Consultation IP SAC:999311 - DR,600.00
+14,Medical Equipment SAC:999311,330.00
+15,Biochemistry SAC !: 999316,1650.00
+16,Haematology SAC: 999316,1400.00
+17,Microbiology SAC: 999316,4330.00
+18,Procedures SAC:999311,550.00
+19,Physiotheraphy SAC:999314,330.00
+20,Medicines SAC:999311,13012.87
+21,Materials SAC:999311,11627.05
+22,Diet SAC:999311,1380.00
+23,Administrative SAC:999311,510.00
+Document_date, Posting_date, Batch_inv_no, Doc_header_test, vendor,  Bill_amount, Amount, business_area, Section_code, assignment, 
+Document_date, Posting_date, Batch_inv_no, Doc_header_test, vendor,  Bill_amount, Amount, business_area, Section_code, assignment, 
+Document_date, Posting_date, Batch_inv_no, Doc_header_test, vendor,  Bill_amount, Amount, business_area, Section_code, assignment, 
+Document_date, Posting_date, Batch_inv_no, Doc_header_test, vendor,  Bill_amount, Amount, business_area, Section_code, assignment, 
+Document_date, Posting_date, Batch_inv_no, Doc_header_test, vendor,  Bill_amount, Amount, business_area, Section_code, assignment, 
+Document_date, Posting_date, Batch_inv_no, Doc_header_test, vendor,  Bill_amount, Amount, business_area, Section_code, assignment, 
+Document_date, Posting_date, Batch_inv_no, Doc_header_test, vendor,  Bill_amount, Amount, business_area, Section_code, assignment, 
+Document_date, Posting_date, Batch_inv_no, Doc_header_test, vendor,  Bill_amount, Amount, business_area, Section_code, assignment, 
+Document_date, Posting_date, Batch_inv_no, Doc_header_test, vendor,  Bill_amount, Amount, business_area, Section_code, assignment, 

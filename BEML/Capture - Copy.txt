@@ -1,0 +1,334 @@
+                                                 Date: 20/06/2020 : 02:24PM
+
+                         INPATIENT DETAILED BILL OF SUPPLY
+Bill No.: 1.241120ICR0000341                            Payor: BEML 7ikideadrilSOUD44-
+
+                                                  Auth. Code; 27302
+Name.    : MR HANUMA1VTH REDDY G              Hospital  No    : MMH000274693
+Age/Sex : 81 years/Male                       InPatient No    : 10000061646
+Address : 224 SAMYUKTHA 3RD MAIN              Admission Date  : 16/06/2020
+          JUDICIAL LAYOUT, TALGATPURA
+          BANGALORE,KARNATAKA,INDIA,
+          560062                              Admission Time  : 08:30AM
+Ward     : 03 B WING MMH                      Discharge Date  : 20/06/2020
+ird      : 031RA/sRmrsoRcIAL MMH              Discharge Time  1 0.2t57PM
+         : GENERAL SURGERY MMH                No. of Days     : 5
+boctor : DR ASHOK G N
+GSTIN : 29AAGCM5933R2Z7(                      PAN No          : AAGCM5933R
+
+SI. Particulars                                                  Amoune(Rs.)
+Ref. No. Order Item      Qty     Price                                  Net
+
+1 Procedure
+     [PAD015] Corona virus (Covid 19)
+                            1    4500.00                            4500.00
+
+                            Sub Total                               4500.00
+2 Bed Charges SAC:999312
+     [TPBEDC9] Ward Bed Charges-SSP, MMIIO3BW 318A
+                            5    925.00                             4625.00
+
+                            Sub Total                               4625.00
+3 Service Nursing Charges SAC:999324
+   [IPBEDC17] Ward Service Charges-SSP
+                            5    375.00                             1875.00
+
+                            Sub Total                               1875.00
+4 Admission Charges SAC:999311
+     [SPBEDC2] Admission Charges
+                            1    300.00                             300.00
+
+                            Sub Total                               300.00
+5 Theatre Charges SAC:999311
+     [ATHE001] THEATRE CAT-A
+                            1    3300.00                            3300.00
+                       Sub Total                                    3300.00
+   6 surgeon Fee SAC:999311
+        [SGEN074] HERNIA WITH ABDOMINOPLASTY        (DR   ASHOK G N)
+                                   2 21000.00                                   22000.00
+                                   Sub Total                                    21000.00
+   7 Anaesthetists Pees SAC:999311
+        [ANS001] Anaesthetist Fee (DR DEEP* D)
+                          ..,      1    5250.00                                 5250.00
+
+                                   Sub Total                                    5250.00
+   8 SURGICAL SUPPORT PEE SAC:999311
+        [SAF001] Surgical support fee
+                                   1    6300.00                                 6300.00
+
+                                   Sub Total                                    6300.00
+   9 Consultation IP SAC:999312
+     [CIPANA01] ANAESTHESIA Clinical Management Fee (DR DEEPA 01)
+                                   1    500.00 500.00
+       [CIPANA02] PRE,ANAESTHESZA CONSULTATION CHARGES Clinical Mane
+        1st DAY (DR DEEPA 0)
+                                   1    1370.00 1370.00
+        [WIPCAR02] CARDIOLOGY Clinical Management Fee (DR SRIHARI DAS)
+                                   1    600.00 600.00
+        [CIPGEN01] GENERAL SiGERY Clinical 2pagemcnt Fee (DR ASHOK 0 N)
+                                   4 500.00 2000.00
+        [CIPGENO3] GENERAL SURGERY Clinical Management Pee - 1st DAY (DR ASHOK G
+        N)
+                                   2    1240.00 12400.00
+        [CIPINT02] INTERNAL MEDICINE Clinical Management Pee (DR ARAVI
+                                   3    500.00  1500.00
+      [CIPINT02] INTERNAL MEDICINE Clinical Management Fee (DR R MANJUMATH)
+                                   2      500.00*                                         1000.00
+                                    Sub Total                                              8210.00
+10 Medical Equipment SAC:999321
+      [AMED043] 02 CHARGES             1      140.00                                          140.00
+      [AMED064] MONITOR CHARGES
+                                       1      190.00                                          190.00
+
+                                       Sub Total                                              330.00
+11 Biochemistry SAC:999316
+      [CO228] Liver Function Test
+                                        1      1000.00                                         1000.00
+      [C0432] Renal Panel - I - Random
+                                       1      650.00                                          650.00
+
+                                       Sub Total                                              2650.00
+12 Haematology SAC:999316
+     [H0006] APTT ( Automated / Clotting Avy 1
+                                       1      500.00                                          500.00
+      [H0014] Complete Blood Counts (Automated)
+                                       1      450.00                                          450.00
+      [M110059] Prothrombin Time ( Automated/ Clotting Assay )
+                                       1      450.00                                          450.00
+
+                                       Sub Total                                              1400.00
+13 Microbiology SAC:999326
+      [M0086] Hepatitis C Virus (Rapid)
+                                       1      1870.00                                         2870.00
+      [MO219]   HSsAg (ECLIA)          1      650.00                                           650.00
+      [M2018]   HIV (ECLIA)            1      1810.00                                         1810.00
+                            Sub Total                               4330.00
+14 Procedures SAC:999321
+     [PAEA009] ORBS - BLOOD SUGAR
+                            21    50.0071                           550.00
+
+                            Sub Total                               550.01
+15 Physiotheraphy SAC:999314
+     [PPHY008] BREATHINGEXCERCISES
+                            3     220.00                            330.00
+
+                            Sub Total                               330.00
+16 Medicines SAC:999312
+     ICC BD INSULIN SYR U40IU 31G
+                            1     9.00                               9.00
+     3M PRE-OPERATIVE SHOWER KIT WITH CLIPPER BLADE (CHLORHEXIDINE GLUCONATE 4%
+     W/V), 3M INDIA LIMITED
+                            1   1050.00                             1050.00
+     ABDOMINAL BELT TUMMY TRIMMER (L) (REF #403CA2), TYNOR
+                            1   655.00                             655.00
+     AEQUIMENTIN 2.2 CM VIAL INS (AMOXYCILLIN 1000 MG+CLAVULANIC ACTD 200 MG        )
+     AEQUITAS
+
+
+
+
+     Packed: 8, Returned :2
+                Charged :   6     237.50                            825.00
+     AEQUIMOL 100 ML INFUSION (PARACE1AMOL 3 ,tW/V) AEOUITAS
+     Packed: 7, Returned :1
+               Charged :  6    467.50                       2805.00
+     ANAWIN HEAVY 4 ML amp inj
+                          2    27.00                        27.00  /
+     AQUA PULSE, PP (DEXTROSE + NORMAL SALINE 5f + 0.9t 500ML FPS/PP IV FLUID)
+     DENIS
+                               75.28                        7 5.28 •
+     AuGMENTIN DUO 625 MG tablet
+
+                          6    19.69                        128.14
+     AVAGAR. HANDRUB FOAM ANTISEPTIC SOLUTION !00 ML (CHLORHEXIDINE GLUCONATE O.
+     51 w/V + ETHYL ALCOHOL 70t V/V) 9266 Ili, 3M INDIA LIMITED
+                          1    250.00                       250.00
+     RED BATH TOWELS 300 mm X 240 mm (20), Ginni Filaments
+                          1    297.00                       297.00
+     BETT ADSORBED 0.5 ML ampoule solution for injection, Tetanus Toxoid
+     Vaccine
+                          1    10.89                        10.89
+     BUDECORT 1 MG RESPULES
+                          5    23.45                        117.27
+     CANNLILA 20 G VENFLON (REF #391492), BD
+                          1    195.00                       195.00
+     CLAVAM 625MG TAB 10 19.69                              196.90
+     CLEXANE 40MG/0.4ML INJ
+                          2    417.81                       835.62
+     DISE, NEEDLE 260,*1. 1/2 x ( DISPOVAN)
+                          1    2.50                           2.50
+     DVOLIN RESPULES 3ML (LEVOSALJ3UTAMOL c(a4c), ZPRATROPIUM BROMIDE) CIPLA
+                         21   17.05                          187.57
+
+   EtiESET 4 AG/2 ML amp inj
+
+                         1    12.81                          22.82
+
+   ENCLEX 40 PFS INJ (UVOXAPARIN 40 MG/0.4 Mb) CIPLA LTD
+
+                         1    417.80                         417.80
+
+   FACE MASK SAFETY N 95 3    205.00                         315.00
+
+   GERBISA 10 MG Adult SuppOSitOrle6 --
+
+                         2    26.56 53.11
+
+   GLOVES 6.5" STERILE PF ENCORE UNDERGLOVE, J K ANSELL
+
+                         2    95.00                          190.00
+
+   GLOVES DISPOSABLE 6.0" STERILE POWDER FREE ENCORE85, ANSELL
+
+                         2    95.00                          190.00
+
+   GLOVES DISPOSABLE 7.0" STERILE PONDER FREE ENCORE85, ANSELL
+                         2    95.00                          190.00
+
+   GLOVES EXAMINATION MEDIUM LATEX POWER FREE NITRILE MICRO-TOUCH, ANSELLY
+
+                         40   15.22*                         608.83
+
+   IBUCESIC PLUS TABLET 20'S, CIPLA LTD
+
+                         18   1.14                           20.56
+
+   JUSTIN-AQ 75 MG/2 ML amp inj
+
+                         1    19.40                          19.40
+
+   LOX 2% 30 ML VIAL inj 1    31.90                          32.90
+
+   MASK 3PLY NOSE WITH MELTBORN FILTER ( LOOP OR TIE), GREEN / BLUE
+
+                         8    16.00                          128.01
+
+   MASK N95 FLAT FLOD RESPIRATOR NIOSH V-4400 VENUS
+                         1    95.00                          95.00
+   MEZOLAM-IMG/MI, 5mx,       1    32.00                            32.00
+      MOVICOL LIQUID 200ML SYRUP (POLYETHYLENE GLYCOL+SODIUM
+      CHLORIDE+SODIUMBICARBONATE+POTASSIUM CHLORIDE) -WIN MEDICARE
+                             2 320.00 320.00
+      NS 0.94 H/V-100 ML FLEXIDRIP (SODIUM CHLORIDE IP 0.9GM/ 100 MD) CLARIS
+      OIEUXA
+
+      Packed: 5, Returned :1
+                 Charged :   4    37.03                            148.11
+      POSIPLUSH SP 0.91 w/v Sodium Chloride Ready-tO-Use Flush solution Pre-
+      Filled Syringe 3 ML (Ref #306573), BD
+                             4    39.50                            158.01
+      PRASOPHEG 40 MG VIAL INJ AEQUITAS
+
+                             3    48.70                            146.20
+      PYROLATE 0.2MG/1ML     1    22.80                            12.80
+      U-SYlE SMALL BORE 15 CM NEEDLELESS LVER AjCESS SPLIT SEPTUM 8I-EXTENSION
+      SET (FLOW RATE. 0.45 ml.) (REP #385163), VD
+                             1    430.00                           430.00
+      RESPIRnTORY EXERCISER WITH HANDLE POLYCISER Ref #20412, POLYMED
+                             1    626.00                           626.00
+      RINGER LACTATE 500ML FFS/PP IV FLULD AQUA PULSE, PP, DENIS
+
+                             4    49.73                            298.92
+      SOMPRAZ 40 MG TABLET(I5'S),(ESOMEPRAZOLE 40 MG TABLET) SON PHARMA
+
+                             24   7.75                             186.00
+      SPTHAL NEEDLE 27G(8D)  1    148.00 148.00
+ 11  SYRINGE 20 ML WITH NEEDLE 21 G, HIPPO
+
+
+                              13    25.00                             324.99
+      SYRINGE 2.5 ML WITH NEEDLE 24 0, NIPRO
+
+                              4     10.00                             40.00
+      SYRINGE 5 ML WITH NEEDLE 23 0, NIPRO
+
+
+                              5     18.00                             90.00
+      TEVADERM IV ADVANCED DRESSING RIT FOR PERIPHERAL IV LINES 6.504 X 7CN
+      M1683 3M
+                              1     215.00  215.00
+      WATER FOR INJ 10ML(NIRMA)
+
+                              3     2.45                              7.36
+
+                              Sub Total                           13012.87
+  17 Materials SAC:999312
+      APRON POLY UNSTERILE 34 X 52 INCHES 160 OAU3S MARLYS'S
+                              2     66.00   132.00
+      BLADE B P NO 10 BOX OF 200 - LISTER
+                              1     4.25                              4.25
+      CAP DISPOSABLE SURGEONS FEMALE -AMARYLLIS
+                              2     5.00                              5.00
+      COVER ARTHOSCOPY DISPOSABLE SLEEVE a SP 1034 SR DRAPES
+                              2     45.00  90.00
+    COVER SHOE DISPOSABLE PAIR - BAPUJI SURGICALS
+                             5    24.00                               120.00
+    DEPRESSOR TONGUE - WOODEN- INDIVIDUAL PACKING 1'S
+                             1      2.80                                1.80
+    DYNA PLASTER             1    100.00                              100.00
+    ELECTRODE RETURN ADULT 4 E7507 (PATIENT )POLYNESIVE II FOR VALLEYLAB
+    CAUTERY ( PLATE)
+                             1    780.00                              780.00
+    GOWN SURGICAL STANDARD XL - BAPUJI SURGICALS
+                             2    450.00                              900.00
+    KIT NEBULIZER WITH MASK ADULT MICRO MIST 4 1885 - HUDSON
+                             1    254.00                              254.00
+    KIT STERILE OT DRAPE - PLAIN BIG SHEET 63 90 INCHES 3 TABLE SHEET MEDIUM
+    63 50 ...NCHES 4 SURGEON GOWN WIT
+                             1    3600.00                             3600.00
+    LAP SPONGES 25 CM X 25 CM, 8 PLY WITH R.O (5 PCS / MED.GR.POUCH) TYPE 17
+    BP WITH ETO/STEAM POUCH - BAPUJI SURGICALS
+                             5    66.00                               330.00
+    MASK OXYGEN ADULT 4 2028 - VINJOR
+                             2    295.00                               295.00
+    PENCIL CALMER? DISPOSABLE COMEPA                               Cf951-9
+                               1   595.00                              595.00
+    PROLENE MESH 25115       2 2056.00                                2056.00
+    STAPLER SKIN WECK VISISTAT SIZE: 35W 8528215 - TELEPLEX MEDICALS
+                             1    1150.00                             1150.00
+    SUTURE MATERIAL VICRYL 4 VP 2317 BOX OF 12 - J 6 J
+                             1    635.00                              635.00
+    SWAB GAUZE 10 CM X 20 CM, 8 PLY f5 PCS/M8D.GR. POUCH) WITH R.O. TYPE 17,
+    BP A FOLD, MULTIFILAMENT THREAD INTER WOVEN IN - BAPUJI SUR GICALS
+                             25   24.00                               600.00
+    SWAB GAUZE 7.5 CM X 7.5 CM, 8 PLY , (5PCS/MED.GR.POUCH) TYPE 27 BP & APLD
+    IN ETO/STEAM POUCH - BAPUJI SURGICALS
+                                2      12.00                                 24.00
+                            Sub Total                                 11627.05
+  18 Diet SAC:999312
+       [DIET014] Cocojal (200m1)
+                                1      50.00                                50.00
+       [DIET021] Idly (3 nos.) 2       50.00                                 50.00
+       [WIST109] Biscuit 2 not 2        30.00                                 30.00
+       [DIET258] Feed Rave (200 ml)
+                                1      50.00                                 50.00
+       [12187462] Ragi porridge 2      80.00                                 80.00
+       [DIET681] Meals          1      80.00                                 80.00
+       [01ST683] idli/vada      5      70.00                                 350.00
+       [DI8T703] Chapathi       3      50.00                                 150.00
+       [FD063] Coffee / Tea / Milk (200MI 1 (SO)
+                                9      40.00                                 360.00
+       [9D068] Fruit Juices 200AL (SO)
+                                3      60.00    60.00
+
+                                Sub Total                                 1380.00
+  19 Administrative SAC:999311
+       [CIPD010] THERAPEUTIC DIET CONSULTATION
+                                1      510.00                                510.00
+
+                                Sub Total                                    520.00
+
+                                Total                                     90480.00
+                           Policy Discount                                9827.50
+                           Net Amount                                     80652.00
+                           Patient Share                                  7940.00
+                           Payments                                       7940.00
+                           Net Payable                                       0.00
+
+
+                           BEM Limited Share                              72712.00
+                       -   Net Payable
+
+
+
+

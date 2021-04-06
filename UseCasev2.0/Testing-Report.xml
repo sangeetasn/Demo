@@ -1,0 +1,367 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Test-Suite name="UiPath Project - Test Automation" total="52" passed="52" failures="0" execution-date="06/10/2020 15:34:44" total-time="00:31:01">
+  <Result>
+    <TestScenario>Invoices\A.pdf</TestScenario>
+    <TestName>1</TestName>
+    <Started>06/10/2020 15:33:51</Started>
+    <Ended>06/10/2020 15:34:44</Ended>
+    <Status>PASSED</Status>
+  </Result>
+  <Result>
+    <TestScenario>Invoices\Ai-scanned-the-receipt-converted.pdf</TestScenario>
+    <TestName>2</TestName>
+    <Started>06/10/2020 15:34:47</Started>
+    <Ended>06/10/2020 15:35:30</Ended>
+    <Status>PASSED</Status>
+  </Result>
+  <Result>
+    <TestScenario>Invoices\B.pdf</TestScenario>
+    <TestName>3</TestName>
+    <Started>06/10/2020 15:35:35</Started>
+    <Ended>06/10/2020 15:37:05</Ended>
+    <Status>PASSED</Status>
+  </Result>
+  <Result>
+    <TestScenario>Invoices\BestOfficeSuppliers_HS_03-converted.pdf</TestScenario>
+    <TestName>4</TestName>
+    <Started>06/10/2020 15:37:06</Started>
+    <Ended>06/10/2020 15:38:27</Ended>
+    <Status>PASSED</Status>
+  </Result>
+  <Result>
+    <TestScenario>Invoices\BottledWater_HS_01-converted.pdf</TestScenario>
+    <TestName>5</TestName>
+    <Started>06/10/2020 15:38:31</Started>
+    <Ended>06/10/2020 15:38:55</Ended>
+    <Status>PASSED</Status>
+  </Result>
+  <Result>
+    <TestScenario>Invoices\CCCompany_HS_01-converted.pdf</TestScenario>
+    <TestName>6</TestName>
+    <Started>06/10/2020 15:39:00</Started>
+    <Ended>06/10/2020 15:39:23</Ended>
+    <Status>PASSED</Status>
+  </Result>
+  <Result>
+    <TestScenario>Invoices\DE_Schulze-converted.pdf</TestScenario>
+    <TestName>7</TestName>
+    <Started>06/10/2020 15:39:26</Started>
+    <Ended>06/10/2020 15:39:46</Ended>
+    <Status>PASSED</Status>
+  </Result>
+  <Result>
+    <TestScenario>Invoices\ES_Manzana-converted.pdf</TestScenario>
+    <TestName>8</TestName>
+    <Started>06/10/2020 15:39:49</Started>
+    <Ended>06/10/2020 15:40:10</Ended>
+    <Status>PASSED</Status>
+  </Result>
+  <Result>
+    <TestScenario>Invoices\FR_Durand-converted.pdf</TestScenario>
+    <TestName>9</TestName>
+    <Started>06/10/2020 15:40:13</Started>
+    <Ended>06/10/2020 15:40:33</Ended>
+    <Status>PASSED</Status>
+  </Result>
+  <Result>
+    <TestScenario>Invoices\info.pdf</TestScenario>
+    <TestName>10</TestName>
+    <Started>06/10/2020 15:40:36</Started>
+    <Ended>06/10/2020 15:40:56</Ended>
+    <Status>PASSED</Status>
+  </Result>
+  <Result>
+    <TestScenario>Invoices\Invoic.pdf</TestScenario>
+    <TestName>11</TestName>
+    <Started>06/10/2020 15:40:59</Started>
+    <Ended>06/10/2020 15:41:21</Ended>
+    <Status>PASSED</Status>
+  </Result>
+  <Result>
+    <TestScenario>Invoices\invoice02.pdf</TestScenario>
+    <TestName>12</TestName>
+    <Started>06/10/2020 15:41:24</Started>
+    <Ended>06/10/2020 15:41:50</Ended>
+    <Status>PASSED</Status>
+  </Result>
+  <Result>
+    <TestScenario>Invoices\out.pdf</TestScenario>
+    <TestName>13</TestName>
+    <Started>06/10/2020 15:41:51</Started>
+    <Ended>06/10/2020 15:42:12</Ended>
+    <Status>PASSED</Status>
+  </Result>
+  <Result>
+    <TestScenario>Invoices\wordpress-pdf-invoice-plugin-sample.pdf</TestScenario>
+    <TestName>14</TestName>
+    <Started>06/10/2020 15:42:15</Started>
+    <Ended>06/10/2020 15:42:29</Ended>
+    <Status>PASSED</Status>
+  </Result>
+  <Result>
+    <TestScenario>Invoices\A.pdf</TestScenario>
+    <TestName>1</TestName>
+    <Started>06/20/2020 03:46:49</Started>
+    <Ended>06/20/2020 03:47:54</Ended>
+    <Status>PASSED</Status>
+  </Result>
+  <Result>
+    <TestScenario>Invoices\A.pdf</TestScenario>
+    <TestName>1</TestName>
+    <Started>06/20/2020 03:51:48</Started>
+    <Ended>06/20/2020 03:52:32</Ended>
+    <Status>PASSED</Status>
+  </Result>
+  <Result>
+    <TestScenario>Invoices\Ai-scanned-the-receipt-converted.pdf</TestScenario>
+    <TestName>2</TestName>
+    <Started>06/20/2020 03:52:38</Started>
+    <Ended>06/20/2020 03:53:12</Ended>
+    <Status>PASSED</Status>
+  </Result>
+  <Result>
+    <TestScenario>Invoices\B.pdf</TestScenario>
+    <TestName>3</TestName>
+    <Started>06/20/2020 03:53:21</Started>
+    <Ended>06/20/2020 03:53:52</Ended>
+    <Status>PASSED</Status>
+  </Result>
+  <Result>
+    <TestScenario>Invoices\BestOfficeSuppliers_HS_03-converted.pdf</TestScenario>
+    <TestName>4</TestName>
+    <Started>06/20/2020 03:53:53</Started>
+    <Ended>06/20/2020 03:54:24</Ended>
+    <Status>PASSED</Status>
+  </Result>
+  <Result>
+    <TestScenario>Invoices\BottledWater_HS_01-converted.pdf</TestScenario>
+    <TestName>5</TestName>
+    <Started>06/20/2020 03:54:29</Started>
+    <Ended>06/20/2020 03:54:58</Ended>
+    <Status>PASSED</Status>
+  </Result>
+  <Result>
+    <TestScenario>Invoices\CCCompany_HS_01-converted.pdf</TestScenario>
+    <TestName>6</TestName>
+    <Started>06/20/2020 03:55:05</Started>
+    <Ended>06/20/2020 03:55:30</Ended>
+    <Status>PASSED</Status>
+  </Result>
+  <Result>
+    <TestScenario>Invoices\DE_Schulze-converted.pdf</TestScenario>
+    <TestName>7</TestName>
+    <Started>06/20/2020 03:55:36</Started>
+    <Ended>06/20/2020 03:55:59</Ended>
+    <Status>PASSED</Status>
+  </Result>
+  <Result>
+    <TestScenario>Invoices\ES_Manzana-converted.pdf</TestScenario>
+    <TestName>8</TestName>
+    <Started>06/20/2020 03:56:07</Started>
+    <Ended>06/20/2020 03:56:30</Ended>
+    <Status>PASSED</Status>
+  </Result>
+  <Result>
+    <TestScenario>Invoices\FR_Durand-converted.pdf</TestScenario>
+    <TestName>9</TestName>
+    <Started>06/20/2020 03:56:38</Started>
+    <Ended>06/20/2020 03:57:17</Ended>
+    <Status>PASSED</Status>
+  </Result>
+  <Result>
+    <TestScenario>Invoices\info.pdf</TestScenario>
+    <TestName>10</TestName>
+    <Started>06/20/2020 03:57:22</Started>
+    <Ended>06/20/2020 03:57:48</Ended>
+    <Status>PASSED</Status>
+  </Result>
+  <Result>
+    <TestScenario>Invoices\Invoic.pdf</TestScenario>
+    <TestName>11</TestName>
+    <Started>06/20/2020 03:57:53</Started>
+    <Ended>06/20/2020 03:58:27</Ended>
+    <Status>PASSED</Status>
+  </Result>
+  <Result>
+    <TestScenario>Invoices\invoice02.pdf</TestScenario>
+    <TestName>12</TestName>
+    <Started>06/20/2020 03:58:34</Started>
+    <Ended>06/20/2020 03:59:04</Ended>
+    <Status>PASSED</Status>
+  </Result>
+  <Result>
+    <TestScenario>Invoices\out.pdf</TestScenario>
+    <TestName>13</TestName>
+    <Started>06/20/2020 03:59:04</Started>
+    <Ended>06/20/2020 03:59:32</Ended>
+    <Status>PASSED</Status>
+  </Result>
+  <Result>
+    <TestScenario>Invoices\wordpress-pdf-invoice-plugin-sample.pdf</TestScenario>
+    <TestName>14</TestName>
+    <Started>06/20/2020 03:59:37</Started>
+    <Ended>06/20/2020 03:59:59</Ended>
+    <Status>PASSED</Status>
+  </Result>
+  <Result>
+    <TestScenario>Invoices\A.pdf</TestScenario>
+    <TestName>1</TestName>
+    <Started>02/05/2021 16:27:35</Started>
+    <Ended>02/05/2021 16:28:46</Ended>
+    <Status>PASSED</Status>
+  </Result>
+  <Result>
+    <TestScenario>Invoices\Ai-scanned-the-receipt-converted.pdf</TestScenario>
+    <TestName>2</TestName>
+    <Started>02/05/2021 16:28:58</Started>
+    <Ended>02/05/2021 16:29:46</Ended>
+    <Status>PASSED</Status>
+  </Result>
+  <Result>
+    <TestScenario>Invoices\B.pdf</TestScenario>
+    <TestName>3</TestName>
+    <Started>02/05/2021 16:29:59</Started>
+    <Ended>02/05/2021 16:30:26</Ended>
+    <Status>PASSED</Status>
+  </Result>
+  <Result>
+    <TestScenario>Invoices\BestOfficeSuppliers_HS_03-converted.pdf</TestScenario>
+    <TestName>4</TestName>
+    <Started>02/05/2021 16:30:33</Started>
+    <Ended>02/05/2021 16:30:55</Ended>
+    <Status>PASSED</Status>
+  </Result>
+  <Result>
+    <TestScenario>Invoices\BottledWater_HS_01-converted.pdf</TestScenario>
+    <TestName>5</TestName>
+    <Started>02/05/2021 16:31:02</Started>
+    <Ended>02/05/2021 16:31:21</Ended>
+    <Status>PASSED</Status>
+  </Result>
+  <Result>
+    <TestScenario>Invoices\CCCompany_HS_01-converted.pdf</TestScenario>
+    <TestName>6</TestName>
+    <Started>02/05/2021 16:31:28</Started>
+    <Ended>02/05/2021 16:31:46</Ended>
+    <Status>PASSED</Status>
+  </Result>
+  <Result>
+    <TestScenario>Invoices\DE_Schulze-converted.pdf</TestScenario>
+    <TestName>7</TestName>
+    <Started>02/05/2021 16:31:52</Started>
+    <Ended>02/05/2021 16:32:12</Ended>
+    <Status>PASSED</Status>
+  </Result>
+  <Result>
+    <TestScenario>Invoices\ES_Manzana-converted.pdf</TestScenario>
+    <TestName>8</TestName>
+    <Started>02/05/2021 16:32:20</Started>
+    <Ended>02/05/2021 16:33:39</Ended>
+    <Status>PASSED</Status>
+  </Result>
+  <Result>
+    <TestScenario>Invoices\FR_Durand-converted.pdf</TestScenario>
+    <TestName>9</TestName>
+    <Started>02/05/2021 16:33:45</Started>
+    <Ended>02/05/2021 16:34:13</Ended>
+    <Status>PASSED</Status>
+  </Result>
+  <Result>
+    <TestScenario>Invoices\info.pdf</TestScenario>
+    <TestName>10</TestName>
+    <Started>02/05/2021 16:34:20</Started>
+    <Ended>02/05/2021 16:34:50</Ended>
+    <Status>PASSED</Status>
+  </Result>
+  <Result>
+    <TestScenario>Invoices\Invoic.pdf</TestScenario>
+    <TestName>11</TestName>
+    <Started>02/05/2021 16:34:57</Started>
+    <Ended>02/05/2021 16:35:18</Ended>
+    <Status>PASSED</Status>
+  </Result>
+  <Result>
+    <TestScenario>Invoices\invoice02.pdf</TestScenario>
+    <TestName>12</TestName>
+    <Started>02/05/2021 16:35:24</Started>
+    <Ended>02/05/2021 16:35:47</Ended>
+    <Status>PASSED</Status>
+  </Result>
+  <Result>
+    <TestScenario>Invoices\out.pdf</TestScenario>
+    <TestName>13</TestName>
+    <Started>02/05/2021 16:35:48</Started>
+    <Ended>02/05/2021 16:36:09</Ended>
+    <Status>PASSED</Status>
+  </Result>
+  <Result>
+    <TestScenario>Invoices\wordpress-pdf-invoice-plugin-sample.pdf</TestScenario>
+    <TestName>14</TestName>
+    <Started>02/05/2021 16:36:16</Started>
+    <Ended>02/05/2021 16:36:28</Ended>
+    <Status>PASSED</Status>
+  </Result>
+  <Result>
+    <TestScenario>Invoices\A.pdf</TestScenario>
+    <TestName>1</TestName>
+    <Started>02/12/2021 15:31:49</Started>
+    <Ended>02/12/2021 15:32:21</Ended>
+    <Status>Failed</Status>
+  </Result>
+  <Result>
+    <TestScenario>Invoices\Ai-scanned-the-receipt-converted.pdf</TestScenario>
+    <TestName>2</TestName>
+    <Started>02/12/2021 15:33:18</Started>
+    <Ended>02/12/2021 15:33:30</Ended>
+    <Status>Failed</Status>
+  </Result>
+  <Result>
+    <TestScenario>Invoices\B.pdf</TestScenario>
+    <TestName>3</TestName>
+    <Started>02/12/2021 15:34:14</Started>
+    <Ended>02/12/2021 15:34:28</Ended>
+    <Status>Failed</Status>
+  </Result>
+  <Result>
+    <TestScenario>Invoices\Scanimage.pdf</TestScenario>
+    <TestName>1</TestName>
+    <Started>02/12/2021 15:40:10</Started>
+    <Ended>02/12/2021 15:40:37</Ended>
+    <Status>Failed</Status>
+  </Result>
+  <Result>
+    <TestScenario>Invoices\Scanimage.pdf</TestScenario>
+    <TestName>1</TestName>
+    <Started>02/12/2021 16:56:09</Started>
+    <Ended>02/12/2021 16:56:44</Ended>
+    <Status>Failed</Status>
+  </Result>
+  <Result>
+    <TestScenario>Invoices\Scanimage.pdf</TestScenario>
+    <TestName>1</TestName>
+    <Started>02/12/2021 17:02:26</Started>
+    <Ended>02/12/2021 17:02:43</Ended>
+    <Status>Failed</Status>
+  </Result>
+  <Result>
+    <TestScenario>Invoices\Scanimage.pdf</TestScenario>
+    <TestName>1</TestName>
+    <Started>02/12/2021 17:25:41</Started>
+    <Ended>02/12/2021 17:26:01</Ended>
+    <Status>Failed</Status>
+  </Result>
+  <Result>
+    <TestScenario>Invoices\Scanimage.pdf</TestScenario>
+    <TestName>1</TestName>
+    <Started>02/12/2021 17:29:09</Started>
+    <Ended>02/12/2021 17:30:46</Ended>
+    <Status>Failed</Status>
+  </Result>
+  <Result>
+    <TestScenario>Invoices\Scanimage.pdf</TestScenario>
+    <TestName>1</TestName>
+    <Started>02/12/2021 17:34:03</Started>
+    <Ended>02/12/2021 17:37:29</Ended>
+    <Status>PASSED</Status>
+  </Result>
+</Test-Suite>

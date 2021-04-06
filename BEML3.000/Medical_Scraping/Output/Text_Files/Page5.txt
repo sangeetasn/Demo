@@ -1,0 +1,83 @@
+Date: 20/06/2020 :
+02:24 PM
+INPATIENT DETAILED BILL OF SUPPLY
+Bill No.: MMH20ICRO000341
+Payor: BEML ienei ted SOUDHA
+Auth. Code: 27302
+Name
+MR HANUMANTH REDDY G
+Hospital No
+MMHO00274693
+Age/Sex :
+81 years/Male
+InPatient No
+I0000061646
+Sl. Particulars
+Amount (Rs.)
+Ref. No. Order Item
+Qty
+Price
+Net
+[CIPINT02] INTERNAL MEDICINE Clinical Management Fee (DR R MANJUNATH)
+2
+500.00*
+1000.00
+Sub Total
+8210.00
+Medical Equipment
+[AMED063] 02 CHARGES
+10
+SAC: 999311
+1
+140.00
+140.00
+[AMED064] MONITOR CHARGES
+190.00
+190.00
+Sub Total
+330.00
+11
+Biochemistry
+SAC:999316
+[C0218] Liver Function Test
+1000.00
+1000.00
+[C0432] Renal Panel
+I - Random
+1
+650.00
+650.00
+Sub Total
+1650.00
+Haematology
+[HO006] APTT (Automated / Clotting Assay )
+12
+SAC:999316
+500.00
+500.00
+[HO014] Complete Blood Counts (Automated)
+1
+450.00
+450.00
+[HO059] Prothrombin Time (Automated/ Clotting Assay )
+450.00
+450.00
+Sub Total
+1400.00
+Microbiology
+[MO086] Hepatitis C Virus (Rapid)
+13
+SÁC:999316
+1870.00
+1870.00
+[M0219] HBSAG (ECLIA)
+[M2018] HIV (ECLIA)
+650.00
+650.00
+NOSPNE
+Page 3
+1810.00
+1810 00
+1600. 0
+11
+18

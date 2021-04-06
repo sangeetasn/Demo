@@ -1,0 +1,43 @@
+                                                          Date: 20/06/2020 : 02:24PM
+
+                                INPATIENT DETAILED BILL OF SUPPLY 
+   Bill No.: M1012OICR0000341                                     Payor: BEML Adhated SOUDW1
+
+                                                            Auth. Code: 27302
+   Name     : MR IIANVNANTH REDDY G                    Hospital No         14'01000274693
+   Age/Sex : 81 years/Male                             InPatient No      : Tanann61646
+
+   51. Particulars                                                            Amount(Rs.)
+   Ref. NO. Order Item          Qty       Price                                     Net
+
+ Sub Total                                    3300.00
+   6 surgeon Fee SAC:999311
+        [SGEN074] HERNIA WITH ABDOMINOPLASTY        (DR   ASHOK G N)
+                                   2 21000.00                                   22000.00
+                                   Sub Total                                    21000.00
+   7 Anaesthetists Pees SAC:999311
+        [ANS001] Anaesthetist Fee (DR DEEP* D)
+                          ..,      1    5250.00                                 5250.00
+
+                                   Sub Total                                    5250.00
+   8 SURGICAL SUPPORT PEE SAC:999311
+        [SAF001] Surgical support fee
+                                   1    6300.00                                 6300.00
+
+                                   Sub Total                                    6300.00
+   9 Consultation IP SAC:999312
+     [CIPANA01] ANAESTHESIA Clinical Management Fee (DR DEEPA 01)
+                                   1    500.00 
+4       [CIPANA02] PRE,ANAESTHESZA CONSULTATION CHARGES Clinical Mane
+        1st DAY (DR DEEPA 0)
+                                   1    1370.00 1370.00
+        [WIPCAR02] CARDIOLOGY Clinical Management Fee (DR SRIHARI DAS)
+                                   1    600.00 1                                600.00 
+        [CIPGEN01] GENERAL SiGERY Clinical 2pagemcnt Fee (DR ASHOK 0 N)
+                                   4 500.00 2000.00 
+        [CIPGENO3] GENERAL SURGERY Clinical Management Pee - 1st DAY (DR ASHOK G
+        N)
+                                   2    1240.00 12400.00
+        [CIPINT02] INTERNAL MEDICINE Clinical Management Pee (DR ARAVI
+                                   3    500.00  1500.00
+

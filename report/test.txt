@@ -1,0 +1,20 @@
+<html>
+<body>
+Hi,
+<br><br>
+please find the attachment
+<br>
+<br>
+<table border="1">
+<th>FirstName</th>
+<th>LastName</th>
+<th>Address</th>
+<tr>
+<td>frstnm</td>
+<td>lastnam</td>
+<td>add</td>
+</tr>
+</table>
+</br>
+</body>
+</html>

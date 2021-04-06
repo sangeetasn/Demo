@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Test-Suite name="UiPath Project - Test Automation" total="5" passed="4" failures="1" execution-date="02/20/2021 10:45:43" total-time="00:02:24">
+  <Result>
+    <TestScenario>Generating Referal letter with name of Staff_name:Nayana</TestScenario>
+    <TestName>Main</TestName>
+    <Started>02/20/2021 10:44:04</Started>
+    <Ended>02/20/2021 10:45:43</Ended>
+    <Status>PASSED</Status>
+  </Result>
+  <Result>
+    <TestScenario>Sending Referal letter to the Concerned Hospital</TestScenario>
+    <TestName>Referal Letter</TestName>
+    <Started>02/20/2021 10:45:56</Started>
+    <Ended>02/20/2021 10:46:00</Ended>
+    <Status>PASSED</Status>
+  </Result>
+  <Result>
+    <TestScenario>Executing Python script of Detailed bill</TestScenario>
+    <TestName>Python Script</TestName>
+    <Started>02/20/2021 10:46:03</Started>
+    <Ended>02/20/2021 10:46:12</Ended>
+    <Status>PASSED</Status>
+  </Result>
+  <Result>
+    <TestScenario>Inserting Detailed Bill data into database</TestScenario>
+    <TestName>Database Connection</TestName>
+    <Started>02/20/2021 10:46:13</Started>
+    <Ended>02/20/2021 10:46:44</Ended>
+    <Status>PASSED</Status>
+  </Result>
+  <Result>
+    <TestScenario>Update Discount Percentage into the database</TestScenario>
+    <TestName>Reconcile</TestName>
+    <Started>02/20/2021 10:46:52</Started>
+    <Ended>02/20/2021 10:46:53</Ended>
+    <Status>PASSED</Status>
+  </Result>
+</Test-Suite>

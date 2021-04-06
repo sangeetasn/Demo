@@ -1,0 +1,31 @@
+<html>
+<body>
+Hi,
+<br><br>
+Please review the attached file
+<br><br>
+
+Status details:<br><br>
+<table border="1" cellspacing="0" cellpadding="1" style="margin-left:50px;width:450px">
+<tr>
+	<th style="background:lightblue">Staff Number</th>
+	<th style="background:lightblue">Hospital Name</th>
+	<th style="background:lightblue">Branch Name</th>
+	<th style="background:lightblue">Status</th>
+	<th style="background:lightblue">Remarks</th>
+</tr>
+<tr>
+	<td>#invdate#</td>
+	<td>#invnum#</td>
+	<td>#vendor#</td>
+	<td>#amount#</td>
+	<td>#ponum#</td>
+</tr>
+</table>
+<br><br>
+
+
+Regards,<br>
+Invibes
+</body>
+</html>

@@ -1,0 +1,98 @@
+Date: 20/06/2020 :
+02:24 PM
+INPATIENT DETAILED BILL OF SUPPLY
+Bill No. : MMH20ICRO000341
+Payor: BEML W eti 3OUDHA
+Auth. Code: 27302
+Name
+: MR HANUMANTH REDDY G
+: MMHO 00274693
+Hospital No
+InPatient No
+Age/Sex : 81 years/Male
+I0000061646
+Sl.
+Particulars
+Amount (Rs.)
+Ref. No. Order Item
+Qty
+Price
+Net
+IN ETO, STEAM POUCH
+BAPUJI SURGICALS
+2
+12.00
+24.00
+Sub Total
+11627.05
+18
+Diet
+SAC:999311
+[DIETO14] Cocojal (200ml)
+50.00
+50.00
+[DIET021] Idly (3 nos.)
+[DIET109] Biscuit 2 nos
+1
+50.00
+50.00
+1
+30.00
+30.00
+[DIET258] Feed Rava (200 ml)
+1
+50.00
+50.00
+[DIET462] Ragi porridge
+80.00
+80.00
+[DIET681] Meals
+[DIET683] idli/vada
+[DIET703] Chapathi
+[FD063] Coffee / Tea / Milk (200ml ) (SO)
+1
+80.00
+80.00
+70.00
+350.00
+3
+50.00
+150.00
+6.
+40.00
+360.00
+[FD0681 Fruit Juices 200ML (SO)
+60.00
+180.00
+Sub Total
+1380.00
+19 Administrative
+SAC: 999311
+[CIPD010] THERAPEUTIC DIET CONSULTATION
+1
+510.00
+510.00
+Sub Total
+510.00
+Total
+90480.00
+Policy Discount
+9827.50
+Net Amount
+80652.00
+Patient Share
+7940.00
+Payments
+Net Payable
+7940.00
+0.00
+BEML Limited Share
+HALATHIA
+72712.00
+Net Payable
+Or.
+72712.00
+PITAL
+MANIP
+* BA
+GALORE

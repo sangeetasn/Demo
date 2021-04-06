@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Test-Suite>
+  <Result>
+    <TestScenario>Invoices\PURCHASE BILLS JUN 20-3-5-2.pdf</TestScenario>
+    <TestName>12</TestName>
+    <Started>02/15/2021 17:59:15</Started>
+    <Status>STARTED</Status>
+  </Result>
+</Test-Suite>

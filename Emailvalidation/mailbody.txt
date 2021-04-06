@@ -1,0 +1,14 @@
+<html>
+<body>
+Hi,
+<br><br>
+The Referal Letter sent for Hospital Admin as email_id is undelivered please check.
+<br><br>
+Thanking you,
+<br><br>
+Regards
+HR
+<br><br>
+</br>
+</body>
+</html>

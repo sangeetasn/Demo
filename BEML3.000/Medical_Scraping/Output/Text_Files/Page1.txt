@@ -1,0 +1,85 @@
+Date: 20/06/2020 :
+02:24 PM
+INPATIENT DETAILED BILL OF SUPPLY
+Bill No.:
+MMH20ICRO000341
+Payor: BEML e d SOUDHA
+Auth. Code: 27302
+: MR HANUMANTH REDDY G
+81 years/Male
+Name
+Hospital No
+MMHO00274693
+Age/Sex :
+InPatient No
+I0000061646
+Address :
+224 SAMYUKTHA 3RD MAIN
+Admission Date
+: 16/06/2020
+JUDICIAL LAYOUT, TALGATPURA
+BANGALORE, KARNATAKA, INDIA,
+560062
+Admission Time
+08:30AM
+Ward
+03 B WING MMH
+: 20/06/2020
+0318A/SEMISPECIAL MMH
+: GENERAL SURGERY MMH
+Discharge Date
+Discharge Time
+No. of Days
+ed
+01:57PM
+Dept
+: 5
+: DR ASHOK G N
+: 29AAGCM5 933R2ZK
+Doctor
+GSTIN
+PAN NO
+: AAGCM5 933R
+Sl. Particulars
+Amount (Rs.)
+Ref. No. Order Item
+Qty
+Price
+Net
+Procedure
+[PAD015] Corona virus (Covid 19)
+1
+4500.00
+4500.00
+Sub Total
+4500.00
+Bed Charges
+[IPBEDC9] Ward Bed Charges-SSP, MMHO3BW-0318A
+SÁC:999311
+925.00
+4625.00
+Sub Total
+4625.00
+Service Nursing Charges
+[IPBEDC17] Ward Service Charges-SSP
+SAC: 999314
+375.00
+1875.00
+Sub Total
+1875.00
+Admission Charges
+[IPBEDC1] Admission Charges
+4
+SAC:999311
+1
+300.00
+300.00
+Sub Total
+300.00
+Theatre Charges
+SAC: 999311
+[ATHE001] THEATRE CAT-A
+3300.00
+3300. 00
+Page 1 bf 11
+16

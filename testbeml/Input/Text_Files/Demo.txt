@@ -1,0 +1,670 @@
+                                                 Date: 20/06/2020 : 02:24PM
+
+                         INPATIENT DETAILED BILL OF SUPPLY
+Bill No.: MHB20ICR0006044         Payor: BEML 7ikideadrilSOUD44-
+
+                                                  Auth. Code; 27302
+Name.    : MR PADMANABHA L              Hospital  No    : MH005245910
+Age/Sex : 78 years/Male                       InPatient No    : I0000479820 
+Address : NO 373 11TH MAIN 3RD STAGE              Admission Date & Time  : 02/08/2020 07:04PM
+          1ST BLOCK,MANJUNATH NAGAR,
+          BANGALORE,KARNATAKA,INDIA,
+          560010 BANGALORE BANGALORE
+Admission Time  : 08:30AM
+Ward     : 07 B MHB                      Discharge Date & Time : 05/08/2020 03:59PM
+Bed     : 031RA/sRmrsoRcIAL MMH              Discharge Time  1 0.2t57PM
+Dept   : GENERAL SURGERY MMH                No. of Days     : 3
+boctor : DR ASHOK G N
+GSTIN : 29AAGCM5933R2ZIC                  PAN No          : AAGCM5933R
+
+SI. Particulars                                                  Amoune(Rs.)
+Ref. No. Order Item      Qty     Price          pol. Disc.                        Net
+
+1 Admission Charges SAC:999311 
+         [IPBEDC1] Admission Charges
+                            1    350.00                70.00      280.00
+
+                            Sub Total                               70.00    280.00
+2 Bed Charges SAC: 999311
+     []Ward Bed Charges-SSP, MHBWO7B-717B
+                             1  1000.00             200.00       800.00
+
+ []Ward Bed Charges-SSP, MHBWO7B-717B
+                              1  1000.00             200.00       800.00
+ 
+[]Ward Bed Charges-SSP, MHBWO7B-717B
+                              1  1000.00             200.00       800.00
+
+                            Sub Total                               600.00    2400.00
+3 Service Nursing Charges SAC:999314
+   [IPBEDC17] Nursing Service Charges-SSP
+                               1   700.00             140.00       560.00
+
+[IPBEDC17] Nursing Service Charges-SSP
+                                1   700.00             140.00       560.00
+
+[IPBEDC17] Nursing Service Charges-SSP
+                                 1   700.00             140.00       560.00
+
+                            Sub Total                               420.00     1680.00
+4 Clinical Management Fee SAC:999311
+    [CIPNSR02] NEUROSURGERY - CONSULTATION IP-NIGHT (DR. PARITOSH PANDEY )
+                                  1    750.00                150.00        600.00
+
+    [CIPANAO1] ANAESTHESIA - CONSULTATION IP (DR. JAYASHREE SIMHA)
+                                   1    500.00                100.00        400.00
+
+     [CIPNSR01] NEUROSURGERY - CONSULTATION IF (DR. PARITOSH PANDEY )
+                                    1    600.00                120.00        480.00
+     [CIPNSR01] NEUROSURGERY - CONSULTATION IP (DR. PARITOSH PANDEY
+                                     1    600.00                120.00        480.00
+
+     [CIPICU081] ICU CROSS CONSULTATION PER DAY (DR. PARITOSH PANDEY
+                                      1    400.00                 80.00        320.00
+
+                            Sub Total                               570.00     2280.00
+5 Medical Equipment SAC:999311
+          [(CIPDVC01)] Dietician Visit Charges
+                                      1    300.00                0.00              300.00
+                       Sub Total                                   0.00      300.00
+6 Medical Equipment SAC:999311
+          [AIMD019] MICROSCOPE - Other Departments
+                                     1    10000.00                 0.00          10000.00
+                                   Sub Total                                    0.00      10000.00
+7 Blood Bank SAC:999317
+          [B0036] Packed Red cells (PRBC) - Reserve/Crossmatch
+                                     2    280.00                       0.00       560.00
+
+           [B0008] Blood Grouping, Rh Type and Antibody Screen
+                                    1    450.00                   0.00           450.00
+
+                                   Sub Total                                    0.00     1010.00
+8 Microbiology SAC:999316
+          [M0115] HIV I 6, II Antibody (Rapid Test)
+                                  1    650.00                  0.00            650.00 
+
+          [M0688] COVID -19 Antigen
+                                   1    700.00          0.00                    700.00
+                                   Sub Total                                    0.00     1350.00
+
+9 Procedures    SAC:999311
+          [PBSP010] NP-IV Cannula Insertion (DR. PARITOSH PANDEY ) 
+                                   1   300.00                      0.00         300.00 
+
+
+          [PANA006] ARTERIAL LINE (DR. JAYASHREE SIMHA)
+                                   1    900.00                100.80         799.20 
+
+
+          [PBSP005] NP-Drain care (DR. PARITOSH PANDEY )
+                                    1    300.00                    0.00           300.00 
+
+
+          [PBSP007] NP-Foleys catheter care (DR. PARITOSH PANDEY )
+                                   1    300.00                  0.00             300.00
+
+                                    Sub Total                                             100.80      1699.20
+10  Theatre Charges     SAC:999311
+          [ATHE003] THEATRE CAT-C (PER. HOUR)
+                                        3   4500.00               2700.00       10800.00
+
+                                       Sub Total                                              2700.00     10800.00
+
+11 Surgeon Fee     SAC:999311
+          [SNSR034] CAROTID ENDARTERECTOMY (NSR) (DR. PARITOSH PANDEY )
+                                           1  22500.00                4500.00       18000.00
+
+                                       Sub Total                                              4500.00     18000.00
+
+12 Anasthetists Fees     SAC:999311
+          [ANS001] Anesthetist Fee (DR. JAYASHREE SIMHA)
+                                           1   5625.00               1125.00        4500.00
+
+                                       Sub Total                                             1125.00      4500.00
+
+13 Surgical Support Fees     SAC:999311
+          [SAF001] Surgical Support Fee
+                                            1   6750.00               0.00               6750.00
+    
+                            Sub Total                              0.00     6750.00
+14 Miscellaneous     SAC:999311
+          [PADM283] MEDICAL RECORD CHARGES
+          (02/08/2020, 07:04PM)    1    200.00            0.00                   200.00
+
+                            Sub Total                                0.00      200.00
+15 Pharmacy Drugs SAC:999311 - 07 A MHB
+          [2000002618] GLOVES EXAMINATION MEDIUM LATEX POWER FREE NITRILE MICRO- 
+          TOUCH, ANSELLY
+           (03/08/2020, 0135A4)     6     10.00                   0.00            60.01
+          [2000010701] MASK N95 FLAT FLOD RESPIRATOR NIOSH V-4400 VENUS 
+          (03/08/2020, 01:36AM)   3    150.00                      0.00        450.01
+          [2000010701] MASK N95 FLAT FLOD RESPIRATOR NIOSH V-4400 VENUS 
+          (03/08/2020, 10:04AM)  2    150.01                0.00            300.01
+          [2000010701] MASK N95 FLAT FLOD RESPIRATOR NIOSH V-4400 VENUS
+          (04/08/2020, 09:20AM)   1    150.00             0.00                150.00
+
+                            Sub Total                                0.00      960.03
+16 Pharmacy Drugs SAC:999311 - IP PHARMACY 5F MHB
+          [1000011961] POSIFLUSH SP 0.9% w/v Sodium Chloride Ready-to-Use Flush 
+          solution Pre- Filled Syringe 5 ML ;Ref #306574), BD
+          (02/08/2020, 09:35PM)Packed: 1,Returned:1Charged: 
+                              0.00    0.00       0.00           0.00
+     [1000016862] AXIFUR 1.5GM INJECTION, VERITAZ
+          (02/08/2020, 09:35PM)
+           Packed: 1, Returned :1 Charged:
+                          0          0.00                 0.00                               0.00
+     [1000020357] PRASOPHEG 40 MG VIAL INJ PANTOPRAZOLE) AEQUITAS HEALTHCARE
+          (02/08/2020, 09:35PM)   1     48.70              0.00               48.70
+     [2000000656] GLOVES DISPOSABLE 7 STERILE, SERJUN
+          (02/08/2020, 09:35PM)  1     80.00              0.00               80.00
+    [2000002260] SYRINGE 10 ML WITH NEEDLE DISPOVAN, HMD
+
+          (02/08/2020, 09:35PM)
+           Packed:, 3, Returned :1 Charged:
+                          2      9.50                   0.00           19.00
+
+    [2000002266] SYRINGE 1CC INSULIN ULTRA-FINE 31 G X 1/3 (0.25MM X 8MM) U40 
+          B  D
+          (02/08/2020, 09:35PM)   1      9.00                0.00               9.00
+    [2000003178] CANNULA 20 G VENFLON PRO-SAFETY (REF #393244). BD
+           (02/08/2020, 09:35PM)   1    365.00               0.00             365.00
+     [2000003496] MATER FOR INJECTION STERILE 10 ML, CLARIS
+          (02/08/2020, 09:35PM)   1      2.56                 0.00              2.56
+[2000006864] IVSET INTRAFIX SAFESET TYP BCV LL,BBRAUN
+                 (02/08/2020, 09:35PM)
+                 Packed: 1, Returned :1 Charged:
+                                                0.00    0.00          0.00                    0.00
+
+    [2000008448] TEGADERM IV ADVANCED DRESSING KIT FOR PERIPHERAL IV LINES 6. 
+
+                5CM x 7CM #1683 3M
+                 (02/08/2020, 09:35PM)                  1       215.00                     0.00                                215.00
+    [2000009661] AVAGARD HANDRUB FOAM SOLN 500ML 9266, 3M
+                 (02/08/2020, 09:35PM)                  1       250.00                   0.00                                  250.00
+   [2000009662] 3M PREOPERATIVE SHOWER KIT, 3M INDIA
+                 (02/08/2020, 09:35PM)                  1       450.00                   0.00                                  450.00
+     [2000010068] CUROS DISIN CAP STRP NEEDLESS CONECTR,3M
+                 (02/08/2020, 09:35PM)                  1         24.40                      0.00                               24.40
+     [1000000242] AMONG 5 MG tablet
+                 (02/08/2020, 10:03PM)                  5           2.86                      0.00                              14.28
+[1000006768] CLOPILET A 150 MG Capsule
+                 (02/08/2020, 10:03PM)                  5           5.00                        0.00                            24.98
+
+[2000009853] MICRO POLYSYTE DUO 15CM #13341,POLYMED
+                 (02/08/2020, 11:27PM)                  1       466.00                         0.00                            466.00
+
+
+                 [1000020357] PRASOPHEG 40 MG VIAL INJ ( PANTOPRAZOLE) AEQUITAS HEALTHCARE
+                 (03/08/2020, 05:48PM)                  2         48.70                                 0.00                     97.40
+     [1000023388] AQUA MOL 1 GM/100 ML INFUSION, DENIS
+                 (03/08/2020, 05:48PM)                  3       481.00                               0.00                     1442.99
+   [2000003496] WATER FOR INJECTION STERILE 10 ML, CLARIS 
+                 (03/08/2020, 05:48PM)
+
+                 Packed: 5, Returned :2Charged:         3           2.56                       0.00                               7.69
+     [1000016862]          AXIFUR 1.5GM INJECTION, VERITAZ
+                 (03/08/2020,          06:06PM)          2       533.00                           0.00                         1065.99
+
+
+                 [20000022%0]          SYRINGE      10 MI WITH NEEDLE DISPOVAN, HMD
+                 (03/08/2020,          06:06PM)          5           9.50                         0.00                           47.49
+
+   [1000000242] AMLONG 5 MG tablet
+
+           (03/08/2020, 07:35PM)    6      2.86                   0.00            17.14 
+
+
+           [1000006768] CLOPILET A 150 MG Capsule
+
+           (03/08/2020, 07:35PM)    5      5.00                   0.00            24.98
+
+   [1000016338] ROZUCOR 20 MG tablet
+
+           (03/08/2020, 07:35PM)    5     33.76               0.00               168.78
+
+
+           [1000017198] CITINOVA 500 TABLETS (CITICOLINE 500MG TABLET), IPCA
+
+           (03/08/2020, 07:35PM)    5     37.22         0.00                     286.10
+   [2000000639] GLOVES DISPOSABLE 6.5" NON-STERILE, LATEX, SERJUN
+           (03/08/2020, 07:35PM)    5     30.00           0.00                   150.02
+
+
+           [2000003589] BED BATH TOWELS 300 mm X 240 mm (10) Ginni Filaments
+
+           (03/08/2020, 07:35PM)    1    297.00               0.00               297.00
+
+   [2000003589] BED BATH TOWELS 300 mm X 240 mm (10), Ginni Filaments
+           (04/08/2020. 03:42AM)    1    297.00             0.00                297.00
+
+
+           [2000000635] GLOVES DISPOSABLE 6" STERILE, SERJUN
+           (04/08/2020, 04:30AM)    1     60.00             0.00                  60.00
+
+           [1000003617] NS 0.9% w/v 100 ML Ecoflac Plus solution for infusion, B 
+           Braun
+           (04/08/2020, 07:37AM)    2     37.02                0.00               74.03
+
+
+           [1000017343] DUPHALAC 3.35 GM/5 ML oral solution 250 ML, ABBOTT INDIA
+           (04/08/2020, 07:37AM)    1      280.88             0.00                 280.88
+
+
+
+     [1000006670] CALPOL 650 MG tablet
+           (04/08/2020, 07:42AM)    10        2.02              0.00                 20.16
+   [1000025515] PAN 40 MG TABLET 30"S, ALKEM LAB
+           (04/08/2020, 07:42AM)    5      9.20              0.00                 45.98
+
+
+           [1000015892] MEDISET 2 ML AMP INJ ( ONDANSETRON), MEDILIFE HEALTH SCIENCES 
+           PVT, LTD.,
+           (04/08/2020, 07:44AM)    1     12.80             0.00                  12.80
+
+
+      [1000000242] AMLONG 5 MG tablet
+           (05/08/2020, 01.10P,M)  10      2.86            0.00                   28.56 
+
+
+           [1000004852] STROCIT 500 MG tablet
+           (05/08/2020, 01:10PM) 20       58.70                    0.00          1173.98 
+      [1000006768] CLOPILET A 150 MG Capsule 
+           (05/08/2020, 01:1OPM) 10        5.00                0.00               49.95 
+
+
+           [1000009521] ROZAVEL 20 MG tablet
+           (05/08/2020, 01:10PM) 10       29.22              0.00                292.16
+
+     
+           [1000017343] DUPHALAC 3.35 GM/5 ML oral solution 250 ML, ABBOTT INDIA
+           (05/08/2020, 01:10PM)    1    286.13           0.00                   286.13
+
+
+           [1000025515] PAN 40 MG TABLET 30S, ALKEM LAB
+
+        (05/08/2020,01:10PM)  3     9.20             0.00               27.59
+
+         [1000006670]CALPOL 650 MG tablet
+         (05/08/2020,01:25PM) 10     2.02               0.00               20.16
+
+                              Sub Total                          0.00       8243.88
+  17 Pharmacy Drugs SAC:999311 - OT STORE A MEE
+         [1000001676] EFIPRES 30 MG/1 ML ampoule solution for injection, 30 mg/mL
+         (03/08/2020, 10:23AM) 1     30.80           0.00                30.80
+
+         [1000002140] FRESOFOL 1% W/V MCT/LCT AMPOULE EMULSION FOR INJECTION, ( 
+         PROPOFOL 1 % W/V 10 MG/ML, 20ML INJ), FRESENIUS KABI LTD.
+         (03/08/2020, 10:23AM) 1    286.00          0.00                286.00
+      [1000003639] NS 0.9% W/V 500 ML PVC BOTTLE SOLUTION FOR INFUSION ( SODIUM 
+         CHLORIDE PH), OTSUKA PHARMACEUTICALS INDIA PVT. LTD.
+         (03/08/2020, 10:23AM) 1     30.70            0.00               30.70
+
+        [1000004215] PYROLATE 0.2 MG/1 ML ampoule solution for injection, 0.2 mg/ 
+         mL
+         (03/08/2020, 10:23AM) 2     12.80       0.00                    25.60
+
+         [1000008275] HYOSTIGMIN 205 MG/5 ML AMPOULE SOLUTION FOR INJECTION, 0.5 MG/ 
+         ML ( NEOSTIGINE METHYLSULFATE), NEON LABORATORIES LTD.
+         (03/08/2020, 10:23AM) 1     23.80              0.00             23.80
+    [1000011112] SEVOFLURANE anaesthetic Inhaler 250 ML, Baxter
+         (03/08/2020, 10:23AM) 0.2   7683.00           0.00              1843.92
+
+         [1000015892] MEDISET 2 ML AMP INJ ( ONDANSETRON) , MEDILIFE HEALTH SCIENCES 
+         PVT. LTD.
+         (03/08/2020, 10:23AM) 1     12.80              0.00             12.80
+
+         [1000017623] KABILYTE FREEFLEX 1000 ML INJECTION, FRESENIUS KABI ( 
+         BALANCED SOL), FRESENIUS KARI LTD.
+    (03/08/2020, 10;23AM) 2    341.00         0.00                 681.99
+
+         [1000020752] DEXONA 8 MG/2 ML AMP INJ ZYDUS
+         (03/08/2020, 10:23AM) 1     10.21               0.00            10.21
+
+         [1000024029] ARIUM 25 MG/2.5 ML INJ ( ATRACURIUM) CELON LABORATORIES LTD
+         (03/08/2020, 10:23AM) 5   143.00       0.00                   715.01
+
+         [2000000157] CANNULA 20 G VASOFIX, B.BRAUN
+         (03/08/2020, 10:23AM) 2    192.00        0.00                  384.00
+    [2000000556] E T TUBE 8 CUFFED, KENDALL
+         (03/08/2020, 10:23AM) 1    195.00                 0.00         195.00
+
+         [2000000749] NEEDLE DISPOSABLE 18G X 1.1/2, B D
+         (03/08/2020, 10:23AM) 1     4.95          0.00                   4.95
+
+    [2000002114] SUCTION CATHETER NO.16 FG, ROMSON
+
+          (03/08/2020, 10:23AM)   1     62.00        0.00                     62.00 
+     [2000002161] DISCOFIX 3WAY STOPCOCK, B.BRAUN
+
+          (03/08/2020, 10:23AM)   2    110.00          0.00                   219.99 
+
+
+          [2000002260] SYRINGE 10 ML WITH NEEDLE DISPOVAN, HMD
+
+          (03/08/2020, 10:23AM)   3      9.00                0.00             27.01 
+    [2000002278] SYRINGE 20 ML WITH NEEDLE DISPOVAN, HMD
+
+          (03/08/2020, 10:23AM)   2     21.00           0.00                  42.00 
+
+
+          [2000002285] SYRINGE 5 ML WITH NEEDLE DISPOVAN, HMD
+
+          (03/08/2020, 10:23AM)   4      7.00           0.00                  28.00 
+
+  [2000002298] DURAPORE TAPE 1.25 CM X 9.1 MT (1/2"X10YD), 3M
+
+          (03/08/2020, 10:23AM) 0.3    255.19             0.00                83.76 
+
+
+          [2000002299] DURAPORE TAPE 2.5 CM X 9.1 MT (1"X10YD), 3M
+
+          (03/08/2020, 10:23AM) 0.2    510.42           0.00                  111.69
+[2000002618] GLOVES EXAMINATION MEDIUM LATEX POWER FREE. NITRILE MICRO- 
+
+          TOUCH, ANSELLY
+          (03/08/2020, 10:23AM) 30      10.27            0.00               308.11
+
+
+          [2000004152] SYRINGE 50 ML PRECISE LUER LOCK WITHOUT NEEDLE (RE41iO3066), 
+
+          BD
+(03/08/2020, 10:23AM)   1     94.00              0.00               94.00
+
+
+          [2000005006] VEIN-O-LINE 100 CM Extension Tube Romsons 
+
+          (03/08/2020, 10:23AM)   1    302.00              0.00               302.00 
+
+
+          [2000006864] IVSET INTRAFIX SAFESET TYP BCV LL,BBRAUN 
+          (03/08/2020, 10:23AM)   1    338.00         0.00                    338.00 
+
+
+          [2000010761] SYRINGE 2.5M1 WITH NEEDLE 24G DISPOVA,HM 
+          (03/08/2020, 10:23AM)   4      5.50            0.00                 22.00
+
+
+          [1000009120] FENTANYL CITRATE 100 MCG/2 ML ampoule solution for injection,
+         VERFEN from Verve Healthcare 50 mcg/mL
+          (03/08/2020, 11;16AM)   3     49.71             0.00                 149.12
+
+
+          [1000009120] FENTANYL CITRATE 100 MCG/2 MI ampoule solution for injection, 
+          VERFEN from Verve Healthcare 50 mcg/mL
+          (03/08/2020. 12:46PM)
+           Packed: 3  Returned :3
+Charged:   0                                          0.00
+
+
+          [2000003496] WATER FOR INJECTION STERILE 10 MI, CLARIS
+          (03/08/2020, 07;04PM)   3      2.56             0.00                   7.69
+
+                            Sub Total                                 0.00     6040.15
+  18 Pharmacy Drugs SAC:999311 - OT STORE B MHB
+          [1000003555] NITRODERM-TTS 5 MG/24 hrs Transdermal Patch
+          (03/08/2020, 09:50AM)   1     62.00            0.00                   62.00
+
+
+          [10000036391] NS 0.9% w/v 500 ML PVC BOTTLE SOLUTION FOR INFUSION ( SODIUM 
+          CHLORIDE PB). OTSUKA PHARMACEUTICALS INDIA PVT, LTD.
+          (03/08/2020, 09:50AM)   1     31.28              0.00                 31.28
+
+           [1000016702] KABIMOL 1 GM/100 ML inj Freeflex
+          (03/08/2020, 09:50AM    1    452.00               0.00               452.00
+
+
+          [2000000638] GLOVES DISPOSABLE 6"STERILE POWDER FREE ENCORE MICROPTIC,
+          ANSELL
+          (03/08/2020, 09:50AM)   1     95.00            0.00                  95.00
+         
+[2000002618] GLOVES EXAMINATION MEDIUM LATEX POWER FREE NITRILE MICRO-7 
+          TOUCHt ANSELLY
+          (03/08/2020, 09:50AM) 10      15.40          0.00                    154.00
+
+
+          [2000003496] WATER FOR INJECTION STERILE 10 ML, CLARIS
+          (03/08/2020, 09:50AM)   3      2.56                 0.00               7.69
+
+[2000009097] NO CODING ONE PLUS 1X100 SRTIPS #281105 ISENS
+          (03/08/2020, 09:50AM)   2     33.50                 0.00              67.00
+ [2000010701] MASK N95 FLAT FLOD RESPIRATOR NIOSH V-4400 VENUS
+          (03/08/2020. 09:50AM)   2    150.01             0.00                 300.01
+
+
+          [1000000579] BETADINE Surgical Scrub 7,5% w/v topical solution 500 MI
+          (03/08/2020, 11:41AM) 0.2   1160.00               0.00              232.00
+
+
+          [1000002930] LOX 2% w/v Jelly 30 GM
+          (03/08/2020, 11:41AM)   1     35.00          0.00                    35.00
+
+
+          [1000003639] N5 0,9% W/V 500 ML PVC BOTTLE SOLUTION FOR INFUSION ( SODIUM 
+          CHLORIDE PB), OTSUKA PHARMACEUTICALS INDIA PVT. LTD.
+          (03/08/202'0, 11;41AM)  5     31.28           0.00                   156.41
+
+
+          [1000013506] BETADINE 10% w/v topical solution 100 ML
+(03/08/2020, 11:41AM) 0.2     509.60                0.00             101.92
+
+
+          [20000004003] FACE MASK N95 ULTRASONICALLY WELDED, RESPIRATOR, BOX OF 20 # 
+
+          8210, 3M
+
+          (03/08/2020, 11:41AW     5    105.00             0.00                525.00
+[2000000598] FOLEY CATHETER 2WAY 14 CH/FR, RUSCH
+
+          (03/08/2020, 11:41AM)    1    114.00            0.00                 114.00
+
+
+          [20000006383] GLOVES DISPOSABLE 6"STERILE POWDER FREE ENCORE MICROPTIC, 
+
+          ANSELL
+
+          (03/08/2020, 11:41AM)    8     95.00           0.00                  759.99
+
+
+          [2000000648] GLOVES DISPOSABLE 6.5STERILE POWDER FREE ENCORE MICROPTIC, 
+
+          ANSELL
+
+          (03/08/2020, 11:41AM) 10       95.00           0.00                  949.98
+
+
+          [2000000659] GLOVES DISPOSABLE, 7"STERILE POWDER FREE ENCORE MICROPTIC, 
+
+          ANSELL
+
+          (03/08/2020, 11:41AM)    8     95.00     0.00                        759.99
+
+
+          [2000000669] GLOVES DISPOSABLE 7.5"STERILE POWDER FREE ENCORE MICROPTIC, 
+
+          ANSELL
+
+          (03/08/2020, 11:41AM) 10       95.00             0.00                949.98
+[2000000676] GLOVES DISPOSABLE 8STERILE POWDER FREE ENCORE MICROPTIC, 
+
+          ANSELL
+
+          (03/08/2020, 11:41AM)    4     95.00            0.00                 379.99
+
+
+          [2000000760] NEEDLE DISPOSABLE 22G X 1.1/2, B D 
+          (03/08/2020, 11:41AM)    1      3.85                0.00               3.85 
+  [2000001427] SPINAL NEEDLE 22 GX3,5, BD 
+          (03/08/2020, 11:41AM)    4    158.88              0.00               635.50 
+
+
+          [2000002209] MINI VAC SET 8 FG, ROMSONS 
+
+          (03/08/2020, 11:41AM)    1    473.00            0.00                 473.00
+
+
+          [2000002230] SPONGOSTAN STANDARD 20 SPONES(7 CM X 5 CM X 1 CM), J&J
+
+          (03/08/2020, 11:41AM)    1    895.00           0.00                  895.00
+
+
+          [2000002232] SURGICEL 1952 (4" X 8") 10,2 CM X 20.3 CM ABSORBABLE HEMOSTAT. 
+
+           j&J
+          (03/08/2020., 11:41AM)   1   3158.00              0.00              3158.00
+
+
+          [2000002246] URO METER COLLECTING BAG WITH MEASURED VOLUME CHAMBER. PLUS, 
+
+          RAY VIJAY
+          (03/08/2020, 11:41AM)    1    460.01              0.00               460.01
+
+
+          [2000002260] SYRINGE 10 MM WITH NEEDLE DISPOVAN, HMD
+          (03/08/2020, 11:41AM)    2      9.01                0.00              18.01
+
+
+          [2000002278] SYRINGE 20 ML WITH NEEDLE DISPOVAN, HMD
+
+          (03/08/200, 11:41AM)     1     19.50               0.00               19.50
+
+
+          [2000002291] SYRINGE 50 ML W/O NEEDLE LUER MOUNT DISPOVAN, HMD 
+
+          (03/08/2020, 11:41AM)    1     35.00             0.00                 35.00
+
+[2000002618] GLOVES EXAMINATION MEDIUM LATEX POWER FREE NITRILE MICRO- 
+          TOUCH, ANSELLY
+            (03/08/2020, 11:41AM) 10       15.40          0.00                    154.00
+
+
+           [K20000035401] TEGADERM-HP Film Dressing with Non-Adherent Pad 6 cm X 10 cm
+(Ref # 8584IN), 3M India
+           (03/08/2020, 11:41AM)    2    170.01                 0.00             340.01
+
+
+           [2000003541] TEGADERM-HP Film Dressing with Non-Adherent Pad 9 cm X 10 cm 
+           (Ref # 8586IN), 3M India
+           (03/08/2020, 11:41AM)    2    249.00                0.00              498.00
+
+
+           [2000003542] TEGADERM-HP Film Dressing with Non-Adherent Pad 9 am X 15 cm 
+           (Ref # 8589IN), 3M India
+           (03/08./2020, 11:41AM)   2    398.01                 0.00             796.01
+
+
+           [2000010822] FACE MASK N95 VFLEX RESPIRATOR ( RESPIRATORY MASK) BOX OF 
+           50'S # 9105, 3M
+           (03/08/2020, 11:41AM     4     70.00                0.00              280.00
+
+
+           [1000002226] GENTICYN 80 MG/2 ML VIAL SOLUTION FOR INJECTION, 40 MG/ML ( 
+           GENTAMICIN), ABBOTT HEALTHCARE PVT. LTD.
+           (03/08/2020, 07:04PM)    1      9.21              0.00                   9.21
+
+
+           [2000010701] MASK N95 FLAT FLOD RESPIRATOR NIOSH V-4400 VENUS
+           (03/08/2020, 0704PM)     6     95.00              0.00                570.0
+
+              Sub Total        :                                    0.00    14478.36
+
+   19 Materials SAC:999311 - 07 A MHB
+         [3000071872] MASK 3PLY NOSE WITH MELTBORN FILTER, EACH LAYER   20GSM, BLUE
+         WITH TIE
+         (03/08/2020, 01:35AM)    3     16.00            0.00                   48.01
+
+         [3000006243] PAD DRESSING COMBINE 15 CM X 20 CM, (2 PCS/MED.   GR, POUCH
+         TYPE 17 BP GAUZE WITH 200 GSM RAMARAJU COTTON WITH ETO/STEAM   - BAPUJI 8pR
+         (03/08/2020, 10:04AM)   6        48.00         0.00                      287.97
+
+         [3000071872] MASK 3PLY NOSE WITH MELTBORN FILTER, EACH LAYER   20GSM, BLUE
+         WITH TIE
+         (03/08/2020 1004AM)      5     16.00              0.00                  80.01
+	Sub Total :                                          0.00      415.99
+20 Materials SAC:999311 - 7TH FLOOR TAKEAWAY COUNTER -NEB
+          [3000071097] STERILE PPE KIT (FULL GOWN, SHOE COVER, 3PLY MASK, SURGEON 
+         CAP, GLOVES) AMARYLLIS
+          (02/08/2020, 09:35PM)    1   1200.00         0.00          1200.00
+
+          [3000008730] GOWN SURGICAL STANDARD XL-BAPUJI SURGICALS
+          (03/08/2020, 07:26AM)    1    450.00         0.00           450.00
+
+          [3000008730] GOWN SURGICAL STANDARD XL-BAPUJI SURGICALS
+          (04/08/2020, 07:31AM)    1    450.00         0.00           450.00
+
+          [3000071872] MASK 3PLY NOSE WITH MELTBORN FILTER, EACH LAYER 20GSM, BLUE 
+         WITH TIE
+          (04/08/2020, 03:25PM)    2     16.00        0.00              32.00
+
+          [3000000007] SUTURE MATERIAL PROLENE - 3-0 - NW - 018 - BOX OF 12 - 
+         ETHICON
+          (05/08/2020, 08:27AM)    1    361.00          0.00            361.00
+
+          [3000001504] BLADE B P NO 10 BOX OF 100 - LISTER
+          (05/08/2020, 12:34PM)    1     4.25            0.00            4.25
+
+             Sub Total                                            0.00     2497.25
+
+21 Materials SAC:99931i - OT STORE A MEB
+          [3000001210] ELECTRODE E.C.G. ADULT - MEDITRACE- 31050522 (KENDALL)TYCO 
+          (03/08/2020,, 10:23AM)   5     23.00             0.00                 114.98
+
+          [3000002593] LINE PRESSURE MONITORING 150 CM - REF.#.71100-15-POLYETHLENE 
+           VYGON
+          (03/08/2020, 10:23AM)    2    144.00      0.00                        287.99
+
+          [3000004344] SWAB GAUZE   10 X 10 CM  8 PLY 24/18   - BAPUJ
+          (03/08/2020, 10:23AM)   20      4.00           0.00                   79.97 
+
+          [3000010493] CATHETER MOUNT WITH SOFT RUBBER PORT   # 331/5385 - TYCO,
+MALLINCKRODT
+          (03/08/2020, 10:23AM)    1    200.00                0.00              200.00 
+
+          [3000012063] ENTROPY SENSOR DISPOSABLE - REF NO:M1038681 - GE
+          (03/08/2020, 10:23AM)    1   1249.00                335.10        913.90
+
+         [3000040494] BLANKET FULL BODY # 5030810 - COVODIEN
+         (03/08/2020, 1023AM)	          1	      1557.00	        0.00            1557.00
+         [3000072020] HME FILTER ADULT # 8000, VINJOH HEALTHCARE PVT LTD
+        (03/08/2020, 10:23AM)	  2	     495.00	      0.00              989.99
+        [SOT377] Gas Nitrous Oxide Charges	
+        (03/08/2020, 10:23AM)	         1	      180.00	     0.00                180.00
+
+	Sub Total	:                               335.10	                    4323.83
+
+22 Materials SAC999311 - OT STORE B MBE
+        [3000006241] Swab gauze 7,5 cm x 7.5 cm, 8 ply , Type 17, A fold in Eto/  
+Steam pouch
+(03/08/2020, 09:50AM)	         8	      12.00	        0.00             96.01
+
+[3000007689] MASK OXYGEN ADULT WITH TUBE CAT NO.1010 - AIRWAYS
+	(03/08/2020, 09:50AM)	        1	            220.00	0.00            220.00
+
+[3000000038] SUTURE MATERIAL MONOCRYL - 3-0 - NW1326 - BOX OF 12 - ETHICON
+(03/08/2020, 11:41AM)	        1	             674.00	0.00             674.00
+
+[3000000222] SUTURE MATERIAL VICRYL - 3-0 - NW - 2471 - BOX OF 12 - 
+ETHICON
+(03/08/2020, 11:41AM)	        1	         467.00	0.00                    467.00
+
+[3000000406] SUTURE MATERIAL 4ERSILK BLACK BR'- 3-0 - NW - 5028RB - BOX OF  
+12 - ETHICON
+(03/08/2020, 11:41AM)	         1	          90.00	0.00                     90.00
+
+[3000000413] SUTURE MATERIAL MERSILK BLACK BR. - 2-0 - NW - 5036RB - BOX OF  
+12 - ETHICON
+(03/08/2020, 11:41AM)  2  	177.01  	0.00	354.01 
+
+	[3000000459]  VACUSET [ YANKER'S SUCTION SET STANDARD TIP ] SIZE 2.5 MTR CODE  GS5016  ROMSONS 
+  	(03/08/2020,  11:41AM)  1  	370.00  	0.00	370.00 
+	[3000000578] SUTURE MATERIAL PROLENE - 6-0 - W - 8597 - BOX OF 12 - ETHICON 
+	(03/08/2020, 11:41AM)  	1  	750.00		0.00	750.00
+	[3000000600] ELECTRODE RETURN ADULT (PATIENT) WITH CORD FOR VALLY LAB CAUTERY - CAT. NO. E 7506 
+  	(03/08/2020, 11,41AM)  	1  	720.00		0.00	720.00 
+	[3000000784] SUTURE MATERIAL PROLENE - 5-0 - W - 8556 - BOX OF 12 -ETHICON 
+	(03/08/2020, 11:41AM)  	1 	935.00 		0.00	935.00 
+	[3000000935] DRAPES POLYTHENE - CLEAN SHEET - BOX OF 12 - SIZE: 28" X 54" -HI CARE 
+  	(03/08/2020, 11:41AM)  	1  	28.33		0.00	28.33
+	[3000001504] BLADE B P NO 10 BOX OF 100 - LISTER 
+
+
+
